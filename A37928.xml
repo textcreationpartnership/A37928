@@ -1,0 +1,609 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>K. Edward the VIth his own arguments against the Pope's supremacy wherein several popish doctrines and practices, contrary to God's word, are animadverted on, and the marks of anti-Christ are applied to the Pope of Rome / translated out of the original, written with the King's own hand in French, and still preserved ; to which are subjoined some remarks upon his life and reign, in vindication of his memory, from Dr. Heylin's severe and unjust censure.</title>
+            <author>Edward VI, King of England, 1537-1553.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 75 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37928</idno>
+            <idno type="STC">Wing E185</idno>
+            <idno type="STC">ESTC R22204</idno>
+            <idno type="EEBO-CITATION">12264326</idno>
+            <idno type="OCLC">ocm 12264326</idno>
+            <idno type="VID">57937</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37928)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57937)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 141:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>K. Edward the VIth his own arguments against the Pope's supremacy wherein several popish doctrines and practices, contrary to God's word, are animadverted on, and the marks of anti-Christ are applied to the Pope of Rome / translated out of the original, written with the King's own hand in French, and still preserved ; to which are subjoined some remarks upon his life and reign, in vindication of his memory, from Dr. Heylin's severe and unjust censure.</title>
+                  <author>Edward VI, King of England, 1537-1553.</author>
+               </titleStmt>
+               <extent>[26], 121 p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.D. for Jonathan Robinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of unidentified work in French.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Papacy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:57937:1"/>
+            <p>
+               <figure>
+                  <figDesc>portrait in oval frame of Edward VI</figDesc>
+                  <head>EDWARD VI. KING OF ENGLAND. <hi>etc.</hi>
+                  </head>
+                  <q>HONI S<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>L Y PENSE</q>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:57937:1" rendition="simple:additions"/>
+            <p>K. EDWARD the VI<hi rend="sup">th</hi> His Own ARGUMENTS Againſt the <hi rend="blackletterType">Pope's Supremacy.</hi>
+            </p>
+            <p>Wherein ſeveral Popiſh Do<g ref="char:EOLhyphen"/>ctrines and Practices, contrary to God's Word, are animadverted on; and the Marks of Anti-Chriſt are applied to the Pope of <hi rend="italic">Rome.</hi>
+            </p>
+            <p>Tranſlated out of the Original, writ<g ref="char:EOLhyphen"/>ten with the King's own Hand in <hi rend="italic">French,</hi> and ſtill preſerved.</p>
+            <p>To which are ſubjoined ſome Remarks upon his Life and Reign, in Vindication of his Memory, from Dr. <hi rend="italic">Heylin</hi>'s ſevere and unjuſt Cenſure.</p>
+            <p>
+               <hi rend="italic">London,</hi> Printed by <hi rend="italic">J. D.</hi> for <hi rend="italic">Jonathan Robinſon,</hi> at the Golden-Lion in St. <hi rend="italic">Paul</hi>'s Church-Yard, 1682.</p>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb facs="tcp:57937:2"/>
+            <pb facs="tcp:57937:2"/>
+            <head>THE PUBLISHER TO THE READER.</head>
+            <p>
+               <hi>AS the Heavens are higher than the Earth, ſo are my Ways higher than your Ways, and my Thoughts than your Thoughts;</hi> Was
+<pb facs="tcp:57937:3"/> what God Almighty, by his Prophet <hi>Eſay,</hi> ſpake to his People <hi>Iſrael:</hi> and Soveraign Princes, his Vicege<g ref="char:EOLhyphen"/>rents here may, with due allowances, ſay the ſame of their <hi>Ways</hi> and <hi>Thoughts<g ref="char:punc">▪</g>
+               </hi> compared with thoſe of their Subjects.</p>
+            <p>The Royal Blood<g ref="char:punc">▪</g> which ſwells their Veins, is frequently impregnated with di<g ref="char:EOLhyphen"/>viner Spirits, than are
+<pb facs="tcp:57937:3" rendition="simple:additions"/> communicated to o<g ref="char:EOLhyphen"/>thers; of which per<g ref="char:EOLhyphen"/>haps a natural account might be given. But I ſhould chuſe rather to reſolve it into Faith, from the Aſſurance, that God will exhibit to them <hi>Grace ſuffici<g ref="char:EOLhyphen"/>ent</hi> 
+               <note place="margin">My Grace is ſuffici<g ref="char:EOLhyphen"/>ent for you.</note> for their High Calling.</p>
+            <p>But ſome are in an eſpecial manner cal<g ref="char:EOLhyphen"/>led forth to extraor<g ref="char:EOLhyphen"/>dinary Work, and theſe receive more
+<pb facs="tcp:57937:4"/> immediate divine In<g ref="char:EOLhyphen"/>fluence, and Aſſi<g ref="char:EOLhyphen"/>ſtance: which I think may well be thought of this matchleſs Prince, whoſe <hi>Auto<g ref="char:EOLhyphen"/>graphon</hi> of the Trea<g ref="char:EOLhyphen"/>tiſe againſt the Papacy now publiſhed, was found in the French Tongue, in the Li<g ref="char:EOLhyphen"/>brary of one of the moſt eminently Lear<g ref="char:EOLhyphen"/>ned Men of the <hi>last</hi> Age, and is here pre<g ref="char:EOLhyphen"/>ſented as 'twas faith<g ref="char:EOLhyphen"/>fully
+<pb facs="tcp:57937:4"/> tranſlated, by a Perſon of very great Quality in <hi>this.</hi>
+            </p>
+            <p>This Pious King was the true <hi>Defen<g ref="char:EOLhyphen"/>der of our Faith,</hi> and under God and his Chriſt, the <hi>Captain</hi> of our Reformation: And as the enſuing Diſcourſe will de<g ref="char:EOLhyphen"/>monſtrate to the World, what <hi>Prin<g ref="char:EOLhyphen"/>ciples</hi> he went upon in it, ſo queſtionleſs, it will vindicate his
+<pb facs="tcp:57937:5"/> moſt Glorious Me<g ref="char:EOLhyphen"/>mory, from the Aſ<g ref="char:EOLhyphen"/>perſion caſt upon it by Dr. <hi>Heylyn,</hi> who <note place="margin">
+                  <hi>Heylyn</hi>'s Hiſtory of the Reformati<g ref="char:EOLhyphen"/>on. <hi>Pref. p.</hi> 4. Whoſe Death I cannot reckon for an <hi>Infelicity</hi> to the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> for being <hi>ill-principled</hi> in him<g ref="char:EOLhyphen"/>ſelf, <hi>&amp;c.</hi>
+               </note> thought it <hi>no Infelicity</hi> to the Church of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> that he was ſo ſhort liv'd.</p>
+            <p>I am ſure it may well be ſaid of him, who was ſo far beyond all ordinary Meaſures.</p>
+            <q xml:lang="lat">Immodicis brevis eſt aetas, &amp; rara ſenectus.</q>
+            <lg>
+               <pb facs="tcp:57937:5"/>
+               <l>Immoderate Men live much in a ſhort ſpace,</l>
+               <l>And rarely to old Age pro<g ref="char:EOLhyphen"/>long their Race.</l>
+            </lg>
+            <p>By comparing the date of his Dedicati<g ref="char:EOLhyphen"/>on to his Uncle, with the Day of his Birth, it appears that he was but twelve Years old when he wrote this little Tractate; in which there is no<g ref="char:EOLhyphen"/>thing but what was extraordinary for his
+<pb facs="tcp:57937:6"/> Years, yet many things that may ſatis<g ref="char:EOLhyphen"/>fy the World they were his Genuine Thoughts, and not the Dictates of a Tu<g ref="char:EOLhyphen"/>tor.</p>
+            <p>Indeed in ſeveral Things, one would pronounce him In<g ref="char:EOLhyphen"/>ſpir'd; he was no older at the writing this, than our bleſſed Saviour was when he confounded the Jew<g ref="char:EOLhyphen"/>iſh Doctors; and I
+<pb facs="tcp:57937:6"/> doubt not, but this wonderfull Young Prince will put thoſe of the <hi>Romiſh Church</hi> to Shame, and Confu<g ref="char:EOLhyphen"/>ſion of Face.</p>
+            <p>'Tis ſaid of our Sa<g ref="char:EOLhyphen"/>viour at thoſe Years, that <hi>The Child grew,</hi> 
+               <note place="margin">Luke 2. ver. 40.</note> 
+               <hi>and waxed ſtrong in Spirit, filled with Wiſ<g ref="char:EOLhyphen"/>dom; and the Grace of God was upon him.</hi>
+            </p>
+            <p>Tho <hi>the Grace of God,</hi> and divine Aid, were conſtantly with
+<pb facs="tcp:57937:7"/> him; yet even <hi>His</hi> Wiſdom encreaſed vvith his Years: <hi>When</hi> he <hi>was a Child,</hi> he <hi>did as a Child,</hi> he <hi>thought as a Child:</hi> And perhaps, 'tis not piacular to ſay, that in many Things, vvherein his Media<g ref="char:EOLhyphen"/>tory Office was not concern'd, he vvas ly<g ref="char:EOLhyphen"/>able to Miſtakes.</p>
+            <p>Which is to me a means to remove ma<g ref="char:EOLhyphen"/>ny Objections againſt
+<pb facs="tcp:57937:7"/> Holy Writ. For admit our Modern Philoſophers can de<g ref="char:EOLhyphen"/>monſtrate, that the Ancient Prophets vvere out, in vvhat they ſpake of the Mo<g ref="char:EOLhyphen"/>ving of the Sun, and the Stability of the Earth, and the like: this vvere no Argu<g ref="char:EOLhyphen"/>ment againſt their ha<g ref="char:EOLhyphen"/>ving the Spirit of Prophecy, which vvas concerned only for the Matter to be
+<pb facs="tcp:57937:8"/> delivered, leaving the Manner to be ac<g ref="char:EOLhyphen"/>cording to Notions then received, with<g ref="char:EOLhyphen"/>out which they could never have been un<g ref="char:EOLhyphen"/>derſtood in their Si<g ref="char:EOLhyphen"/>militudes or Allu<g ref="char:EOLhyphen"/>ſions.</p>
+            <p>And this may be the Reaſon of the Difference, in the Stiles of the Sa<g ref="char:EOLhyphen"/>cred Pen-Men, ſome vvhereof had many Things δυσνόητα, or
+<pb facs="tcp:57937:8"/> 
+               <hi>hard to be underſtood;</hi> the Sacred Spirit working according to the Tempers, or Faculties, which it found.</p>
+            <p>The Conſideration of this might induce one to believe, that it was not without ex<g ref="char:EOLhyphen"/>traordinary Aſſiſtance from above, that this Heroick King en<g ref="char:EOLhyphen"/>countred the Papacy, tho now and then, like young <hi>David</hi> con<g ref="char:EOLhyphen"/>quering
+<pb facs="tcp:57937:9"/> the <hi>Philiſtine</hi> Giant, it were with Pebble Stones.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:57937:9"/>
+            <opener>
+               <signed>
+                  <hi>Edward</hi> the Sixth, by the Grace of God, King of <hi>England, France,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> Defender of the Faith, and on Earth, af<g ref="char:EOLhyphen"/>ter God, Head of the Church of <hi>England,</hi> and of <hi>Ireland.</hi>
+               </signed>
+               <salute>To his moſt dear and well-beloved Uncle, <hi>Edward</hi> Duke of <hi>Somerſet,</hi> Gover<g ref="char:EOLhyphen"/>nour of his Perſon, and Pro<g ref="char:EOLhyphen"/>tector of his Kingdoms, Countries, and Subjects.</salute>
+            </opener>
+            <p>AFter having con<g ref="char:EOLhyphen"/>ſidered (my dear and well-beloved Uncle) how
+<pb facs="tcp:57937:10"/> much they diſpleaſe God, who waste all their Time on the Fol<g ref="char:EOLhyphen"/>lies and Vanities of this World, ſpending it in trifling Sports and Di<g ref="char:EOLhyphen"/>verſions, from whence comes no Profit or Be<g ref="char:EOLhyphen"/>nefit to themſelves, or Mankind; I have determined to employ my ſelf about the doing ſomething, which will be (as I hope) profi<g ref="char:EOLhyphen"/>table to my ſelf, and acceptable unto you.
+<pb facs="tcp:57937:10"/> Having then conſide<g ref="char:EOLhyphen"/>red, that we ſee many Papiſts not only curſe us, but call and name us Hereticks, becauſe we have forſaken their Antichriſt, and its Traditions, and fol<g ref="char:EOLhyphen"/>lowed the Light which God hath been pleaſed to afford us; We are inclined to Write ſomething to defend us againſt their Contumelies, and lay them (as it is juſt) up<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:57937:11"/> their own Backs. For they call us Here<g ref="char:EOLhyphen"/>ticks, but Alas! they are ſo themſelves, whilſt they forſake the pure Voice of the Go<g ref="char:EOLhyphen"/>ſpel, and follow their own Imaginations; as is moſt evident from <hi>Boniface</hi> the Third, who thought (when he was made the Uni<g ref="char:EOLhyphen"/>verſal Biſhop) that that falling away, which St. <hi>Paul</hi> ſpeaks of in his ſecond Epiſtle
+<pb facs="tcp:57937:11"/> to the <hi>Theſſalonians,</hi> and ſecond Chapter, had happened in him<g ref="char:EOLhyphen"/>ſelf. For St. <hi>Paul</hi> ſaith, <hi>We beſeech you, Brethren, by the coming of our Lord, that ye be not ſoon ſhaken in Mind, or be troubled, neither by Spirit, nor by Word, nor by Letter, as that the day of Chriſt is at hand. Let no Man deceive you
+<pb facs="tcp:57937:12"/> by any Means; for that day ſhall not come, except there come a falling away firſt, and that Man of Sin be revealed, the Son of Perditi<g ref="char:EOLhyphen"/>on; who exalteth himſelf above all that is called God, ſo that he, as God, ſit<g ref="char:EOLhyphen"/>teth in the Temple of God,</hi> &amp;c.</p>
+            <p>Notwithstanding he followed his own Proud Imaginations
+<pb facs="tcp:57937:12"/> and Fancies, and did not forſake his Errors, which he knew to be very Wicked.</p>
+            <p>Conſidering then by your Life and Actions, that you have a great Affection to the Di<g ref="char:EOLhyphen"/>vine Word, and the ſincere Religion; I dedicate this preſent VVork to you, Pray<g ref="char:EOLhyphen"/>ing you to take it in good Part. God give you his perpetual Grace, and ſhew his
+<pb facs="tcp:57937:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:57937:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:57937:14"/> Benignity upon you for ever.</p>
+            <closer>
+               <dateline>From our Palace at <hi>VVestminster</hi> in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> 
+                  <date>this laſt Day of <hi>Auguſt,</hi> 1549.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:57937:14"/>
+            <head>A ſmall TREATISE Againſt the PRIMACY OF THE POPE.</head>
+            <p>WE may eaſily find and per<g ref="char:EOLhyphen"/>ceive by the Experience of the World,
+<pb n="2" facs="tcp:57937:15"/> that Humane Nature is diſ<g ref="char:EOLhyphen"/>poſed to all Evils, and en<g ref="char:EOLhyphen"/>tangled by all manner of Vices. For what Nation is there in the Earth in which there is not ſome Vice, and many Diſorders? And principally in this Age, be<g ref="char:EOLhyphen"/>cauſe now there is ſuch an exaltation of the great Em<g ref="char:EOLhyphen"/>pire of Antichriſt: which is the Source of all Evil, the Fountain of all Abominati<g ref="char:EOLhyphen"/>on, and true Son of the De<g ref="char:EOLhyphen"/>vil. For when God had ſent his only Son to heal our Infirmities, and to reconcile the World unto himſelf by his Death; The Devil in<g ref="char:EOLhyphen"/>ſtantly changed the Inſtitu<g ref="char:EOLhyphen"/>tions
+<pb n="3" facs="tcp:57937:15"/> of Chriſt into Human Traditions, and perverted the Holy Scriptures to his Purpoſes and Deſigns, by his Miniſter the Pope. And therefore if the Aſtrologers (who maintain that all things ſhall return to their own Element) ſay a Truth, the Pope ſhall deſcend into Hell: for he cannot belong unto God, or be his Servant, whilſt under the Pretence of Religion, and the Com<g ref="char:EOLhyphen"/>mand of God, he uſurps unto himſelf the Authority of Chriſt, as appears in all his Works. Therefore it ſeemed beſt to me in this little Book, firſt to condemn
+<pb n="4" facs="tcp:57937:16"/> the Papacy, and afterwards the Doctrine of the ſaid Pope. Tho I am not igno<g ref="char:EOLhyphen"/>rant, that it is a difficult task, becauſe there are many that will contradict it: Notwith<g ref="char:EOLhyphen"/>ſtanding we will condemn the Supremacy of the Pope, from theſe following Rea<g ref="char:EOLhyphen"/>ſons.</p>
+            <div n="1" type="part">
+               <pb n="5" facs="tcp:57937:16"/>
+               <head>The Firſt Part.</head>
+               <p>FIrſt then, whereas the Papiſts ſay, that <hi>Rome</hi> is the Mother of all other Churches, and therefore the Biſhop of <hi>Rome</hi> ought to be Superiour to all other Bi<g ref="char:EOLhyphen"/>ſhops. I anſwer, that it is impoſſible; becauſe the firſt Promiſe was made unto the <hi>Jews:</hi> And <hi>Rome</hi> was Hea<g ref="char:EOLhyphen"/>then, when <hi>Jeruſalem</hi> was Chriſtian; for St. <hi>Paul</hi> wri<g ref="char:EOLhyphen"/>ting to the <hi>Romans,</hi> ſays, <hi>through their Fall, Salvation</hi> 
+                  <note place="margin">Rom. 11</note> 
+                  <hi>is come unto the Gentiles.</hi>
+               </p>
+               <pb n="6" facs="tcp:57937:17"/>
+               <p>And becauſe the Papiſt cannot prove <hi>Rome</hi> to have been the Mother of all the other Churches, they there<g ref="char:EOLhyphen"/>fore ſay the Biſhop of <hi>Rome</hi> hath received his Power from St. <hi>Peter:</hi> to whom had been given the ſame Authority with Chriſt, and remains in the ſaid Biſhop of <hi>Rome</hi> to this day, which they endeavour to prove out of theſe following Texts, <hi>Thou art</hi> Peter, <hi>and upon this</hi> 
+                  <note place="margin">Mat. 16.</note> 
+                  <hi>Rock I will build my Church,</hi> ſaith Chriſt; and a little af<g ref="char:EOLhyphen"/>ter, <hi>And I will give thee the Keys of the Kingdom of Hea<g ref="char:EOLhyphen"/>ven:</hi> And they alledge that other place of Scripture,
+<pb n="7" facs="tcp:57937:17"/> where <hi>Peter</hi> ſays to Chriſt, <hi>Lord, thou knoweſt that I love thee:</hi> Saying<g ref="char:punc">▪</g> that he that loves Chriſt is the chiefeſt, and <hi>Peter</hi> loving Chriſt, more than any of the other Apoſtles loved him, is there<g ref="char:EOLhyphen"/>by the chiefeſt and principal of the Apoſtles.</p>
+               <p>Again, they affirm that he only was commanded to feed the Sheep of Chriſt, and be the Fiſher of Men; and that he was the firſt Speaker, and made anſwer to Jeſus, <hi>Behold, here are two</hi> 
+                  <note place="margin">Luk. 22.</note> 
+                  <hi>Swords:</hi> from whence the Papiſts conclude, that <hi>Peter</hi> had a Temporal and a Spiri<g ref="char:EOLhyphen"/>tual Sword.</p>
+               <pb n="8" facs="tcp:57937:18"/>
+               <p>They alledge alſo ſome Human Reaſons, that as the Bees have one King, ſo all Chriſtians ought to have one Pope. And that as there was of old amongſt the Jews, a principal Prieſt or Biſhop, (as <hi>Moſes</hi> and <hi>Aa<g ref="char:EOLhyphen"/>ron)</hi> 
+                  <note place="margin">Exod. 4.</note> ſo now it is neceſſary there ſhould be a Biſhop of the Biſhops.</p>
+               <p>Here are two great Falſe<g ref="char:EOLhyphen"/>hoods in theſe few words: The one is, that the Autho<g ref="char:EOLhyphen"/>rity and Supremacy over the Church was given to St. <hi>Pe<g ref="char:EOLhyphen"/>ter:</hi> The other, that <hi>Peter</hi> was at <hi>Rome.</hi>
+               </p>
+               <pb n="9" facs="tcp:57937:18"/>
+               <p>To the Firſt, Where they ſay that that Authority was given him by theſe Words, <hi>Thou art</hi> Peter, <hi>&amp;c.</hi> I An<g ref="char:EOLhyphen"/>ſwer, that if you remark the preceding and following Words, in that Chapter of <note place="margin">Mat. 16.</note> the Goſpel, you will find that Chriſt did not ſpeak of <hi>Peter,</hi> as he was barely a Man, but as he was a Belie<g ref="char:EOLhyphen"/>ver: For the foregoing Words, are, how <hi>Peter</hi> had ſaid, <hi>Thou art the Son of God:</hi> By which it is evident, that Chriſt did not ſay, that <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> was the Foundation of the Church, but ſpoke of the Faith of <hi>Peter.</hi> The
+<pb n="10" facs="tcp:57937:19"/> following Words declare how Chriſt called <hi>Peter</hi> Sa<g ref="char:EOLhyphen"/>tan, but the Church of God is not founded upon Sa<g ref="char:EOLhyphen"/>tan, therefore it is not founded upon <hi>Peter:</hi> for if the Church was founded upon St. <hi>Peter,</hi> it would have a weak Foundation: and like that Houſe, a ſandy Foundation that could not ſtand long, but, <hi>the Floods</hi> 
+                  <note place="margin">Mat. 7.</note> 
+                  <hi>came, and the Winds blew, and beat upon that Houſe; and it fell.</hi> In like manner would the Church fall, if it had ſo poor a Foundation. By which one may ſee from theſe Words in the Text, <hi>Thou art</hi> Peter, <hi>and upon this
+<pb n="11" facs="tcp:57937:19"/> Stone will I build my Church,</hi> muſt not be underſtood of <hi>Peter,</hi> but of the Faith of <hi>Peter;</hi> upon which the Church is founded. For he was a frail and weak Veſſel, who denied Chriſt thrice. Their ſecond Text is, that the Keys of Heaven were given to St. <hi>Peter.</hi> To <note place="margin">Ma<gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> which I Anſwer, That the Keys were given not only to <hi>Peter,</hi> but alſo to the other Apoſtles. And by this Ar<g ref="char:EOLhyphen"/>gument, I anſwer, that he was not principal; becauſe the reſt received the ſame Authority of the Keys, that was committed to him. On which account
+<pb n="12" facs="tcp:57937:20"/> St. <hi>Paul</hi> calls St. <hi>Peter,</hi> the <note place="margin">Gal. 2.</note> Pillar, not the Foundation of the Church; his Compa<g ref="char:EOLhyphen"/>nion, not his Governour: And what are the Keys of Heaven, the Authority of pardoning Sins? No, it is the Preaching of the Goſpel of God the Father, the Go<g ref="char:EOLhyphen"/>ſpel, I ſay, of God; not the Pope's or Devil's. And as when a Door is open, every one who will, may en<g ref="char:EOLhyphen"/>ter therein; ſo when God ſent his ſincere Command<g ref="char:EOLhyphen"/>ments and Goſpel, he open<g ref="char:EOLhyphen"/>ed Truth, which is the Gate of Heaven: And gave unto Men an underſtanding of the Scriptures, which if they o<g ref="char:EOLhyphen"/>bey'd,
+<pb n="13" facs="tcp:57937:20"/> they ſhould thereby <note place="margin">2 Cor. 2.</note> be ſaved. By which we ſee that the Goſpel and the Truth of the Scriptures, are the only Gates that conduct Men to the Kingdom of God. Whence St. <hi>Paul</hi> ſays, <hi>Whoſoever ſhall call upon the</hi> 
+                  <note place="margin">Rom. 10</note> 
+                  <hi>Name of the Lord, ſhall be ſa<g ref="char:EOLhyphen"/>ved: How then ſhall they call on him in whom they have not believed? And how ſhall they believe in him of whom they have not heard? And how ſhall they hear without a Preacher?</hi> And a little after, he ſaith, <hi>So then Faith cometh by hearing, and hearing by the Word of God.</hi> And in the fourth Chapter to the <hi>Romans,</hi> he alſo ſaith,
+<pb n="14" facs="tcp:57937:21"/> 
+                  <hi>But to him that worketh not,</hi> 
+                  <note place="margin">Rom. 4.</note> 
+                  <hi>but believeth on him that juſti<g ref="char:EOLhyphen"/>fieth the Ungodly, his Faith is counted for Righteouſneſs.</hi> Moreover, we will prove that the Preaching of the Goſpel is the Key of Hea<g ref="char:EOLhyphen"/>ven: in the eighth Chapter to the <hi>Romans, Paul</hi> affirms that, <hi>Whoever calls upon the Name of the Lord, ſhall be ſaved;</hi> and that the Preaching of the Goſpel is the Door that leads to the Invocation of the Name of God: Whence it follows, that the Preach<g ref="char:EOLhyphen"/>ing of the Goſpel is the way and entrance of Salvati<g ref="char:EOLhyphen"/>on.</p>
+               <pb n="15" facs="tcp:57937:21"/>
+               <p>Again, <hi>Paul</hi> affirms that Faith juſtifies, and that the Preaching of the Goſpel cauſes Faith (which I have ſhewed before) whence it follows that the true Preach<g ref="char:EOLhyphen"/>ing of the Word is the Door and Entrance to Juſtificati<g ref="char:EOLhyphen"/>on. Like as Ground which is ſowed may produce Fruit, if the Seed be not caſt into Ground which is full of Thiſtles, or Thorns, or <note place="margin">Mat. 13. Mark 4. Luke 8.</note> Stones; and yet altho it be ſowed in ſuch Ground, it will a little meliorate the Earth. So if the Word of God be ſowed in the Hearts of honeſt People, or ſuch as have a Zeal for Truth, it
+<pb n="16" facs="tcp:57937:22"/> will confirm them in all Goodneſs; but if any be ob<g ref="char:EOLhyphen"/>ſtinate and perverſe they cannot impute the Fault un<g ref="char:EOLhyphen"/>to the Scriptures, which is really in themſelves.</p>
+               <p>Therefore we ought to do our utmoſt endeavours to cauſe the Goſpel to be Preach'd throughout all the World; as it is written, <hi>All Power is given unto me in Hea<g ref="char:EOLhyphen"/>ven</hi> 
+                  <note place="margin">Mat. 28. Mar. 16. Luk. 24.</note> 
+                  <hi>and in Earth: Go ye there<g ref="char:EOLhyphen"/>fore, and teach all Nations, bap<g ref="char:EOLhyphen"/>tizing them in my Name.</hi>
+               </p>
+               <p>Since then it is proved, that the Keys of Heaven is the Authority of Preaching; and that the Authority of Preaching was given to all the Apoſtles.</p>
+               <pb n="17" facs="tcp:57937:22"/>
+               <p>I cannot ſee how by that Text, any more Authority <note place="margin">Mat. 16.</note> was given to <hi>Peter,</hi> than to the other Diſciples: And St. <hi>Paul</hi> ſays, he was not a <hi>whit behind the very chiefeſt Apoſtles.</hi>
+               </p>
+               <p>Then if he ſaid true, St. <hi>Peter</hi> was not above him: And if I were ask'd which of them was the better, I ſhould ſay <hi>Paul,</hi> becauſe he Preach'd more than them all.</p>
+               <p>But we ought to account certainly, that the Spirit of God was poured out upon <note place="margin">Gal. 2. Act. 2.</note> them all; and that the ſame Spirit of God which filled St. <hi>Peter,</hi> filled alſo St. <hi>Paul:</hi> from whence may be pro<g ref="char:EOLhyphen"/>ved,
+<pb n="18" facs="tcp:57937:23"/> that neither of them was Superior to the other.</p>
+               <p>Again, the Papiſts ſay, that after Chriſt was raiſed from the Dead, he ask'd <note place="margin">Joh. 21.</note> who loved him, and that <hi>Peter</hi> anſwered, he loved him, and therefore (ſay they) he was the chief A<g ref="char:EOLhyphen"/>poſtle.</p>
+               <p>By which Reaſon every good Man ought to have the Supremacy over every o<g ref="char:EOLhyphen"/>ther, becauſe each good and pious Perſon loves God: for it is the Duty and Office of every true Chriſtian. Now the Queſtion is not, Whe<g ref="char:EOLhyphen"/>ther <hi>Peter</hi> was faithful, pi<g ref="char:EOLhyphen"/>ous, good, a holy and true
+<pb n="19" facs="tcp:57937:23"/> Chriſtian; but whether he was principal Head, Go<g ref="char:EOLhyphen"/>vernour, and King above and over the reſt of the Apo<g ref="char:EOLhyphen"/>ſtles, and Miniſters of Jeſus Chriſt? For if the Pope would have the Authority of St. <hi>Peter,</hi> which was to Preach, I would be content to give it him: but he re<g ref="char:EOLhyphen"/>gards but little the Precept of God; for <hi>Jeſus departed</hi> 
+                  <note place="margin">Joh. 6.</note> 
+                  <hi>into a Mountain alone, when he perceived the Jews would make him a King,</hi> and Emperor: And the Pope by Wrong, or Violence, or Deceit, hath made all Nations ſubject unto him.</p>
+               <pb n="20" facs="tcp:57937:24"/>
+               <p>Jeſus wore a Crown of Thorns, and a Purple Robe was thrown upon him in Deriſion, and all the Multi<g ref="char:EOLhyphen"/>tude mocked and ſpit upon him: But the Pope decks himſelf with a Triple Crown, and is adored by Kings, Princes, Emperors, and all Eſtates of Perſons. Jeſus waſh'd his Diſciples <note place="margin">Joh, 13.</note> Feet, and Kings kiſs the Feet of the Pope: Jeſus pay'd Tribute, but the Pope <note place="margin">Mat. 17.</note> receives, and pays none: Jeſus opened his Mouth and <note place="margin">Mat. 5.</note> taught the People, the Pope takes his eaſe and reſt in his Caſtle of St. <hi>Angelo.</hi> Jeſus <note place="margin">Luke 6.</note> healed all Diſeaſes, the Pope
+<pb n="21" facs="tcp:57937:24"/> rejoices in Blood and Maſ<g ref="char:EOLhyphen"/>ſacres. Chriſt bore his Croſs <note place="margin">Joh. 19.</note> upon his Shoulders, the Pope is born upon the Shoulders of Men. Chriſt came with Peace and Po<g ref="char:EOLhyphen"/>verty into the World, the Pope delights in ſtirring up War amongſt the Kings and Princes of the Earth. Chriſt <note place="margin">Mat. 21.</note> came meekly, humbly, and compaſſionately, ſitting up<g ref="char:EOLhyphen"/>on an Aſs, but the Pope rides in all Pomp and Splen<g ref="char:EOLhyphen"/>dor. Chriſt was a Lamb, <note place="margin">Joh. 1.</note> the Pope is a Wolf. Chriſt <note place="margin">Luke 9.</note> was Poor, the Pope would have all Chriſtian King<g ref="char:EOLhyphen"/>doms under his Power and Command. Chriſt drove <note place="margin">John 2.</note>
+                  <pb n="22" facs="tcp:57937:25"/> the Money-Changers, and <note place="margin">Mat. 21.</note> Sellers out of the Temple, the Pope receives them in: Jeſus inſtituted the Sacra<g ref="char:EOLhyphen"/>ment <note place="margin">Mar. 14. Luk. 22.</note> in commemoration of himſelf; the Pope formed the Maſs, a Maſter piece of Impoſture. Jeſus aſcended <note place="margin">Mar. 16.</note> into Heaven, and the Pope falls into Hell. God hath <note place="margin">Deut. 6. Exo. 20.</note> commanded that we ſhould have no other God but him; and the Pope makes himſelf to be honoured like unto a great God. God forbids us <note place="margin">Mat. 4.</note> to commit Idolatry, and the Pope is the Author of I<g ref="char:EOLhyphen"/>mage-Worſhip. God hath prohibited ſwearing in vain; <note place="margin">Exo. 20.</note> but the Pope <hi>allows his Friends
+<pb n="23" facs="tcp:57937:25"/> Perjury.</hi> God hath com<g ref="char:EOLhyphen"/>manded the uſe of Feſtivals in good Works, Prayers, and Devotions, but the Pope allows Pomp, Games, Ideleneſs, and Mymichry to be exerciſed on thoſe days in Churches. God hath forbid Murther, and killing any Perſon, and 'tis a mat<g ref="char:EOLhyphen"/>ter of great Compaſſion and Sorrow, to ſee how cruelly the Pope perſecutes Chriſti<g ref="char:EOLhyphen"/>ans. God foretold this Per<g ref="char:EOLhyphen"/>ſecution in the four and twentieth Chapter of <hi>Mat<g ref="char:EOLhyphen"/>thew; Many falſe Prophets</hi> 
+                  <note place="margin">Mat. 24.</note> (ſays Chriſt) <hi>ſhall ariſe at that time; and becauſe Iniquity ſhall abound, the Love of many ſhall
+<pb n="24" facs="tcp:57937:26"/> wax cold: but the Goſpel ſhall be preached in all the World; when ye therefore ſhall ſee the Abomination of Deſolation, ſpo<g ref="char:EOLhyphen"/>ken of by</hi> Daniel <hi>the Prophet, ſtand in the holy Place, then let them which be in</hi> Judea, <hi>flee into the Mountains.</hi> And is not this come to paſs now? Yea, for there are many Wolves in Sheeps cloath<g ref="char:EOLhyphen"/>ing; who under the pre<g ref="char:EOLhyphen"/>tence of Religion, obſcure the true Doctrine of Chriſt: And almoſt all Abominati<g ref="char:EOLhyphen"/>ons were introduced into the Holy Place, that is to ſay, brought into the Church of God.</p>
+               <pb n="25" facs="tcp:57937:26"/>
+               <p>But to return to our Mat<g ref="char:EOLhyphen"/>ter, God hath forbid Adul<g ref="char:EOLhyphen"/>tery; notwithſtanding the Pope, who will be obedient to his Father the Devil, com<g ref="char:EOLhyphen"/>mands his Prieſts to keep ſe<g ref="char:EOLhyphen"/>veral Concubines and Har<g ref="char:EOLhyphen"/>lots, rather than join them<g ref="char:EOLhyphen"/>ſelves to any in Marriage. God hath forbid ſtealing from either Man, Woman, or Child; but the Pope is ſuch an old Thief, that he robs even God of his Ho<g ref="char:EOLhyphen"/>nour, and transfers it to himſelf. God has forbid bearing falſe Witneſs againſt any one, but the Pope crys all is good Griſt which comes to his Mill. God
+<pb n="26" facs="tcp:57937:27"/> hath commanded us to be content with what is our own, but the Pope will have every Houſe pay him a Tribute: to conclude, he is in every thing oppoſite to God. But I cannot blame him, for he fulfills the com<g ref="char:EOLhyphen"/>mand of <hi>Paul,</hi> which ſays, <hi>Children obey your Parents,</hi> and <note place="margin">Eph. 6.</note> the <hi>Demon</hi> of Hypocriſy is his Father, to whom he pays all Obedience. <hi>The Devil walketh about as a roaring Lion,</hi> 
+                  <note place="margin">1 Pet. 5.</note> (ſaith St <hi>Peter) ſeeking whom he may devour.</hi> And does not the Pope do the ſame? Yea certainly, for he not only ordains wicked and unjuſt Laws; but he purſues to
+<pb n="27" facs="tcp:57937:27"/> Death, all who have a true Zeal and Love towards God.</p>
+               <p>But to return to the Pri<g ref="char:EOLhyphen"/>macy of <hi>Peter.</hi> I ask how many Kingdoms St. <hi>Peter</hi> had under his Dominion? For it was impoſſible that all Kingdoms ſhould be un<g ref="char:EOLhyphen"/>der him, when St. <hi>James</hi> was then Biſhop of <hi>Jeruſalem,</hi> and that City then Chriſtian. Neither can I ſee how <hi>Peter</hi> ſhould be the Chief: For St. <hi>Paul</hi> ſays to the <hi>Corinthi<g ref="char:EOLhyphen"/>ans</hi> concerning the Apoſtles, <hi>All are yours, and you are</hi> 
+                  <note place="margin">1 Cor. 8.</note> 
+                  <hi>Chriſts, and Chriſt is Gods.</hi> Likewiſe St. <hi>Peter</hi> calls him<g ref="char:EOLhyphen"/>ſelf by no other Title, but
+<pb n="28" facs="tcp:57937:28"/> 
+                  <hi>Peter an Apoſtle of Jeſus Christ,</hi> 
+                  <note place="margin">1 Pet. 1.</note> by which it is manifeſt, that we are not <hi>Peter</hi>'s, but <hi>Peter</hi> ours. Again, when <hi>Paul</hi> came to <hi>Antioch</hi> he <hi>withſtood</hi> Peter <hi>to his Face, becauſe he was to be blamed:</hi> which he <note place="margin">Gal. 2.</note> would not have done if <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> had had any ſuch Authori<g ref="char:EOLhyphen"/>ty, or could not have lyed (as they ſay): but (as I have ſaid thereupon) <hi>Paul</hi> ſeeing the Diſſimulation of <hi>Peter,</hi> ſaid unto him, <hi>If thou, being a</hi> 
+                  <note place="margin">Gal. 2.</note> 
+                  <hi>Jew, liveſt after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews? We who are Jews by Nature, and not Sinners of the Gentiles, knowing
+<pb n="29" facs="tcp:57937:28"/> that a Man is not justified by the Works of the Law, but by the Faith of Jeſus Christ, even we have believed in Jeſus Christ, that we might be justified by the Faith of Christ, and not by the Works of the Law,</hi> &amp;c. Let us then ſee how it is poſſible that <hi>Peter</hi> ſhould be Chief; for if he was Princi<g ref="char:EOLhyphen"/>pal, who loved Chriſt the beſt, it is evident that St. <hi>John</hi> would be the chiefeſt of the Apoſtles, for Chriſt ap<g ref="char:EOLhyphen"/>pointed him to take care of his Mother, and <hi>John</hi> lay in <note place="margin">Joh. 19. Joh. 13.</note> the Boſom of Jeſus, whilſt he Supped.</p>
+               <p>But to the Matter in hand. I ask, Whether a lawful
+<pb n="30" facs="tcp:57937:29"/> Council can be called but by the Pope? To which, I am ſure, the Papiſts will an<g ref="char:EOLhyphen"/>ſwer Negatively. Then I ask, If the Pope can call a Council before his Election: To which, I know, they will reply, he cannot; if then no Council is lawful without a Pope, and that none who is labouring to be elected Pope can aſſemble a Coun<g ref="char:EOLhyphen"/>cil, then the Council which confirms the Pope Superior over the Church, is not law<g ref="char:EOLhyphen"/>ful; becauſe it was not con<g ref="char:EOLhyphen"/>vocated by a Pope, being there was then none ele<g ref="char:EOLhyphen"/>cted.</p>
+               <pb n="31" facs="tcp:57937:29"/>
+               <p>But being thus driven from that Argument, they fly to another, and ſay, that Chriſt commanded <hi>Peter</hi> to feed his Sheep: but he com<g ref="char:EOLhyphen"/>manded <note place="margin">Joh. 21.</note> all the reſt to do the ſame, ſaying, <hi>Go ye therefore and teach all Nations, baptizing</hi> 
+                  <note place="margin">Mat. 28.</note> 
+                  <hi>them in my Name.</hi> But the Pope does not obey the Commandment of Jeſus Chriſt: For he doth not feed his Sheep, but devours them, like a roaring Lion who walks about to ſeek his <note place="margin">1 Pet. 5.</note> prey. Now I wiſh the Pope would obey the Command<g ref="char:EOLhyphen"/>ment which God gave unto St. <hi>Peter:</hi> For I ſhould not regret his having Authority
+<pb n="32" facs="tcp:57937:30"/> to preach Chriſt to all the World, but he leaves the preaching of the Goſpel, and uſurps the Authority of be<g ref="char:EOLhyphen"/>ing Head of the Church, which of right belongs to none but Chriſt.</p>
+               <p>'Tis true, the Pope is Primate of the Church, but 'tis not the Divine or Catho<g ref="char:EOLhyphen"/>lick Church, but the Diabo<g ref="char:EOLhyphen"/>lical one: For he tranſgreſ<g ref="char:EOLhyphen"/>ſes the Commandment gi<g ref="char:EOLhyphen"/>ven in general to St. <hi>Peter</hi> and the reſt of the Apoſtles: For when Chriſt ſent his twelve Diſciples to preach the Goſpel of Repentance, and the Kingdom of God, he ſaid, <hi>Behold, I ſend you forth</hi> 
+                  <note place="margin">Mat. 10.</note>
+                  <pb n="33" facs="tcp:57937:30"/> 
+                  <hi>as Sheep amongſt Wolves:</hi> But the Biſhop of <hi>Rome</hi> is like a Wolf amongſt Sheep, eat<g ref="char:EOLhyphen"/>ing and devouring the poor Sheep of Chriſt; and when they are hid by Fear, he takes the Voice of a Sheep to betray and devour them. He excuſes himſelf from preaching, upon its being too low and mean an Office for him, ſaying, he hath low<g ref="char:EOLhyphen"/>er Officers and Miniſters for that Work; whilſt he is ta<g ref="char:EOLhyphen"/>ken up with ſeeing and attending to the ſinging out of the Maſſes. But I anſwer to the firſt, That if the Office of preaching was not below St. <hi>Peter,</hi> who had received
+<pb n="34" facs="tcp:57937:31"/> all his Authority and Power from Chriſt himſelf, me<g ref="char:EOLhyphen"/>thinks that thoſe who call themſelves the Succeſſors of <hi>Peter,</hi> ſhould not eſteem the Office too mean for them.</p>
+               <p>St. <hi>Paul</hi> writes to <hi>Timothy</hi> what every Biſhop ought to be; <hi>A Biſhop</hi> (ſaith he) <hi>muſt be blameleſs, the Husband of one Wife, Sober, of good Be<g ref="char:EOLhyphen"/>haviour,</hi> 
+                  <note place="margin">1 Tim. 3.</note> 
+                  <hi>given to Hoſpitality, apt to teach, not given to Wine, no Striker, not given to filthy Lucre, but one that ruleth well his own Houſe, having his Chil<g ref="char:EOLhyphen"/>dren in ſubjection with all Gra<g ref="char:EOLhyphen"/>vity.</hi> Now let us arraign the Pope before St. <hi>Paul,</hi> and ex<g ref="char:EOLhyphen"/>amine whether by St. <hi>Paul</hi>'s
+<pb n="35" facs="tcp:57937:31"/> Rule he be guilty or not. The firſt Command to a Biſhop is to be blameleſs; but we have proved that the Biſhop of <hi>Rome</hi> tranſgreſſes all the Commandments of God, by which he ſtands Guilty. The ſecond is, that he be the Husband of one Wife, in which the Biſhop of <hi>Rome</hi> errs mightily; for he allows Concubines, and counts fil<g ref="char:EOLhyphen"/>thy Fornication better than lawful and honeſt Marriage. The third is, that he ſhould be Sober, and full of Wiſ<g ref="char:EOLhyphen"/>dom and Vertue, which the Biſhop of <hi>Rome</hi> very little obſerves. The fourth is, that he be Liberal, given to
+<pb n="36" facs="tcp:57937:32"/> Hoſpitality, not greedy of filthy Lucre; but the Biſhop of <hi>Rome</hi> is full of Avarice and Oppreſſion. The fifth is, that he be apt to Teach: but our Devil, or Diabolical Father accounts maintaining the Glory of God by preach<g ref="char:EOLhyphen"/>ing, is too mean an Office for him; notwithſtanding his Predeceſſor <hi>Peter,</hi> either preached the Goſpel, or ſin<g ref="char:EOLhyphen"/>ned againſt God, in not ob<g ref="char:EOLhyphen"/>ſerving that Command<g ref="char:EOLhyphen"/>ment; Go ye, and preach <note place="margin">Mat. 28.</note> the Goſpel over all the World. But he will Im<g ref="char:EOLhyphen"/>priſon, Slay, and Burn thoſe who do preach the Word, and would himſelf be their
+<pb n="37" facs="tcp:57937:32"/> Executioner, if he did not find others to do it in his ſtead; by which we may ſee that he loves himſelf more than he loves God. What ſhall I ſay more? He diſo<g ref="char:EOLhyphen"/>beys all the Orders of S. <hi>Paul,</hi> give Verdict therefore whe<g ref="char:EOLhyphen"/>ther he be Guilty or Inno<g ref="char:EOLhyphen"/>cent.</p>
+               <p>But now we will proceed to their other Arguments, and firſt to their maintain<g ref="char:EOLhyphen"/>ing <hi>Peter</hi> to be the Chief, for which they alledge his being commanded to feed the <note place="margin">Joh. 21.</note> Sheep: To which I anſwer, that all the Apoſtles were commanded as well as he,
+<pb n="38" facs="tcp:57937:33"/> to feed the Sheep of Chriſt, in theſe Words of the Go<g ref="char:EOLhyphen"/>ſpel, <hi>Go ye all and preach,</hi> &amp;c. <note place="margin">Mat. 28.</note> For the preaching of the Go<g ref="char:EOLhyphen"/>ſpel ſignifies nothing elſe but feeding his Sheep. And their other Argument is not more ſubſtantial, when they ſay <hi>Peter</hi> was a Fiſher of Men; for I ſay, <hi>Andrew</hi> and <hi>John</hi> were by the ſame Au<g ref="char:EOLhyphen"/>thority made Fiſhers of Men: For Fiſhers of Men are really nothing but Prea<g ref="char:EOLhyphen"/>chers of Chriſt.</p>
+               <p>Now if the preaching of the Goſpel be unlawful, without Authority from <hi>Peter</hi> or the Pope; then the preaching of St. <hi>Paul</hi> was
+<pb n="39" facs="tcp:57937:33"/> not lawful, becauſe he did not receive his Autho<g ref="char:EOLhyphen"/>rity from <hi>Peter;</hi> notwith<g ref="char:EOLhyphen"/>ſtanding the Pope accounts himſelf a God, ſaying, I cannot lye, therefore I have ſpoken Truth: To which I anſwer, that if he be not greater than <hi>Peter,</hi> he may lye; for <hi>Peter</hi> denied Chriſt thrice, <hi>Peter</hi> then lyed thrice: <note place="margin">Mat. 26.</note> and St <hi>Paul</hi> afterwards re<g ref="char:EOLhyphen"/>proved <note place="margin">Gal. 2.</note> him for his Diſſimu<g ref="char:EOLhyphen"/>lation.</p>
+               <p>But the Biſhop of <hi>Rome</hi> lies notoriouſly, if in nothing elſe, but in his pretending to be the Head of the Chri<g ref="char:EOLhyphen"/>ſtian Church, and having the Keys of Heaven. For if the
+<pb n="40" facs="tcp:57937:34"/> Pope have the Keys of Hea<g ref="char:EOLhyphen"/>ven, I make this Query: When the Pope is dead, and none hath the Keys, how can any Soul enter into Heaven? No Perſon till he be elected Pope having the Keys: whence it muſt follow, that the Pope being dead, Hea<g ref="char:EOLhyphen"/>vens Gates are cloſed. But it is a Folly to ſay, that the Pope hath the Keys of Hea<g ref="char:EOLhyphen"/>ven and Hell, when Chriſt is our only Mediator, our <note place="margin">1 Tim. 2.</note> Gate, Head, Shepherd, Re<g ref="char:EOLhyphen"/>deemer, and Soveraign Lord; who (after he had taught, inſtructed, done ma<g ref="char:EOLhyphen"/>ny Miracles, and ſuffered Death for us, and pronoun<g ref="char:EOLhyphen"/>ced <note place="margin">Mat. 27.</note>
+                  <pb n="41" facs="tcp:57937:34"/> Salvation to all that be<g ref="char:EOLhyphen"/>lieve <note place="margin">Mar. 16. Luk. 24. Joh. 19. Mat. 28. Mar. 16. Luk. 24.</note> on his Name, and from the power of his Paſſion faithfully believes to be ſa<g ref="char:EOLhyphen"/>ved) aſcended into Heaven with great Honour and Glo<g ref="char:EOLhyphen"/>ry, and is ſeated on the right hand of God his Father, where he intercedes for us; remaining for ever with his Bleſſed Father, and the Holy Ghoſt, one God in Trinity, and three Perſons in Unity, full of Power and Vertue, and free from Vice and Sin: remaining with us by his Spi<g ref="char:EOLhyphen"/>rit, and being in every re<g ref="char:EOLhyphen"/>ſpect equal with his Father, till he ſhall come in Glory <note place="margin">Eph. 1. Heb. 1. 4. Mat. 25.</note> to be Judg of all the World:
+<pb n="42" facs="tcp:57937:35"/> whoſe Goodneſs is inſcruta<g ref="char:EOLhyphen"/>ble, Mercy unexpreſſible, and Glory moſt ineſtimable; He is our Governour and Maſter, He is our Shepherd and Redeemer, and we are his Subjects and Sheep; we <note place="margin">Pſal. 22.</note> are ranſomed by his Blood, and waſhed by the Waters of Baptiſm, to ſhew that we are his Sheep; none elſe is <note place="margin">Joh. 10.</note> our Paſtor or Lord: neither the Pope, or any on Earth, can be our Head; elſe we ſhould become a Monſter having two Heads. <hi>Paul</hi> 
+                  <note place="margin">1 Cor. 3.</note> writing to the <hi>Corinthians,</hi> ſays, that all is ours; <hi>Peter, Apollos,</hi> and all the other A<g ref="char:EOLhyphen"/>poſtles were ours, and we
+<pb n="43" facs="tcp:57937:35"/> are Chriſts, and Chriſt is Gods; whereby it appears, that <hi>Peter</hi> is not a Head, but a Miniſter unto us. There<g ref="char:EOLhyphen"/>fore we muſt eſteem God our Spiritual Father, who by the Paſſion of Chriſt, took from us all the pains of Death and Hell, to all who believe in him: that is the Spirit of Adoption whereby we cry, <hi>Abba,</hi> Father. If the <note place="margin">Rom. 8.</note> Pope then will be called our Spiritual Father, we ſhall have three Fathers, whereof the one is Carnal, and two Spiritual: neither can the Pope be ſo, for as Chriſt is the Immaculate Lamb, and only Son of God, endued
+<pb n="44" facs="tcp:57937:36"/> with all Power: on the o<g ref="char:EOLhyphen"/>ther ſide, the Pope is an un<g ref="char:EOLhyphen"/>clean and ravenous Wolf, and only Son of the Devil his Father, from whom he hath received his Authority and Office.</p>
+               <p>But I would fain know, whether the Pope be our Spiritual, Carnal, or Diabo<g ref="char:EOLhyphen"/>lical Father. In the firſt place, I ſee not how he can be our Carnal Father, be<g ref="char:EOLhyphen"/>cauſe he lives celibate, and makes a profeſſion of Cha<g ref="char:EOLhyphen"/>ſtity: neither can he be our Spiritual Father, being ſo addicted to the World, and Worldlineſs; then it follows that he muſt be our Diaboli<g ref="char:EOLhyphen"/>cal
+<pb n="45" facs="tcp:57937:36"/> Father. Let us therefore conclude, that as it was ſaid of Chriſt, <hi>Thou art my Son,</hi> 
+                  <note place="margin">Pſal. 2.</note> 
+                  <hi>this day have I begotten thee;</hi> God will ſay to the Pope, Thou art my Enemy, this day have I deſtroyed thee: and as Chriſt was of the Or<g ref="char:EOLhyphen"/>der of <hi>Melchiſedek,</hi> ſo the <note place="margin">Pſ. 110.</note> Pope is of the Order Diabo<g ref="char:EOLhyphen"/>lick. But as Chriſtianity is Spiritually very good, and well deſigned; yet if there be not good Order to pre<g ref="char:EOLhyphen"/>ſerve it, it muſt decay: As the Body of a Man could not be healthy with two Heads, four Arms, or four Feet; ſo theſe Chriſtian Countries could never well ſubſiſt un<g ref="char:EOLhyphen"/>der
+<pb n="46" facs="tcp:57937:37"/> the diſtraction of two e<g ref="char:EOLhyphen"/>qual Soveraigns. But ſome may queſtion me then, and ſay, What then, you would not have any Kings or Em<g ref="char:EOLhyphen"/>perours? But to that I an<g ref="char:EOLhyphen"/>ſwer, that God who ſent his <note place="margin">Mat. 1.</note> only Son down into the World, made him King over it, putting all Spiritual and Temporal Authority into his Hands; he by his Sove<g ref="char:EOLhyphen"/>raignty <note place="margin">Pſ. 110.</note> hath placed Kings to be his Leiutenants over the Earth; but he hath not or<g ref="char:EOLhyphen"/>dain'd any Supream Biſhop: for we find none ſo autho<g ref="char:EOLhyphen"/>riſed by the Holy Scripture. Now if the Papiſts ſay, that the Pope is Heir to him, I
+<pb n="47" facs="tcp:57937:37"/> would adviſe him then, to ſtay till Chriſt were dead be<g ref="char:EOLhyphen"/>fore they ſeaſed upon his Kingdom: becauſe no Heirs take the Poſſeſſion of their Inheritances, till after the Death of their Predeceſſors.</p>
+               <p>Moreover the Papiſts ſay, that as under the old Law <note place="margin">Exod. 4.</note> there was an High Prieſt or Arch-Biſhop of the <hi>Jews;</hi> ſo there ought now to be an Head or Supream Miniſter amongſt Chriſtians. To which I anſwer, that the Prieſthood of <hi>Aaron</hi> and <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> repreſented the Suprema<g ref="char:EOLhyphen"/>cy of our Saviour Chriſt, not the Pope: For Chriſt who came down to the Earth, <note place="margin">Mat. 1.</note>
+                  <pb n="48" facs="tcp:57937:38"/> and ſuffered Death for us; ſays of himſelf, that he was <note place="margin">John 4.</note> our <hi>Meſſias,</hi> and that he was the true Bread which came <note place="margin">John 6.</note> down from Heaven, and our only Shepherd; for St. <hi>John</hi> teſtifies that, he ſays, <hi>I am the Door; he that entereth not by</hi> 
+                  <note place="margin">Joh. 10.</note> 
+                  <hi>me into the Sheepfold, but climb<g ref="char:EOLhyphen"/>eth ſome other way, is a Thief; but he that entereth in by the Door, is the Shepherd of the Sheep. To him the Porter o<g ref="char:EOLhyphen"/>peneth, and the Sheep hear his Voice: And he calleth his own Sheep by name, and leadeth them out, and the Sheep follow him, for they know his Voice; and a Stranger will they not fol<g ref="char:EOLhyphen"/>low.</hi> But the Pope not com<g ref="char:EOLhyphen"/>ing
+<pb n="49" facs="tcp:57937:38"/> by Chriſt, is an abomina<g ref="char:EOLhyphen"/>ble Thief: therefore all true and good Sheep ought to fly from him: For he comes to devour, not feed them; to prey upon them, not inſtruct them. But the Papiſts being thus ſcourged with their own Rod (to wit, with their own Argument) ſay farther, that after the Diſ<g ref="char:EOLhyphen"/>ciples had preached about the Cities, after they return<g ref="char:EOLhyphen"/>ed to Jeſus, he asked them; Whether they had had any Sword with them? and that they anſwered, Here are two Swords. Now they urge further, that the one of the Swords ſignifies the Spiritu<g ref="char:EOLhyphen"/>al,
+<pb n="50" facs="tcp:57937:39"/> the other the Temporal Power: which reaſon (as ſhall be ſhewed hereafter) is ſottiſh and vain. For firſt, we ought to conſider from whence the Apoſtles came; they had been ſent <hi>to preach</hi> 
+                  <note place="margin">Mark 6.</note> 
+                  <hi>Chriſt to all People,</hi> and to <hi>ſhew</hi> 
+                  <note place="margin">Luke 9.</note> 
+                  <hi>the Light to thoſe that ſat in Darkneſs.</hi> Secondly, we muſt conſider the Power Chriſt had on Earth, for he ſaid himſelf, that his Kingdom was not of this World: and there are two ſorts of Autho<g ref="char:EOLhyphen"/>rity, the one Spiritual, the other Temporal. On which account St. <hi>Paul</hi> writes in his firſt Epiſtle to the <hi>Corinthi<g ref="char:EOLhyphen"/>ans, as the Body is one, and</hi> 
+                  <note place="margin">1 Cor. 12</note>
+                  <pb n="51" facs="tcp:57937:39"/> 
+                  <hi>hath many Members,</hi> for ſeve<g ref="char:EOLhyphen"/>ral uſes; ſo there are alſo in the Church of Chriſt, a<g ref="char:EOLhyphen"/>mongſt the Spiritual Mini<g ref="char:EOLhyphen"/>ſters; firſt, <hi>Apoſtles;</hi> ſeconda<g ref="char:EOLhyphen"/>rily, <hi>Prophets;</hi> thirdly, <hi>Teach<g ref="char:EOLhyphen"/>ers:</hi> and ſome Temporal Miniſters, as Kings, Em<g ref="char:EOLhyphen"/>perours, Governours, and Leiutenants. Now Chriſt was a Spiritual Miniſter, as he teſtifies of himſelf, ſaying, <hi>My Kingdom is not of this World.</hi> And again, when two Brethren came unto him and requeſted him to divide their Inheritance between them: he anſwered, <hi>Man,</hi> 
+                  <note place="margin">Luk. 12.</note> 
+                  <hi>who made me a Judg, or a Divi<g ref="char:EOLhyphen"/>der over you?</hi> The third thing
+<pb n="52" facs="tcp:57937:40"/> to be conſidered, is, that Chriſt ſpake to the Diſciples concerning the Swords Iro<g ref="char:EOLhyphen"/>nically. Fourthly, that all the Apoſtles anſwered toge<g ref="char:EOLhyphen"/>ther, Behold, here are two Swords. Fifthly, you may obſerve in the Text, that the Apoſtles underſtood not what Chriſt meant.</p>
+               <p>By all which things we may eaſily underſtand that Text; for after the Apoſtles had been ſent to preach the Goſpel of Truth, when they returned to Jeſus, he ſaid un<g ref="char:EOLhyphen"/>to them, Had you any Sword with you then? (as much as to ſay) when I ſent you firſt out, you would
+<pb n="53" facs="tcp:57937:40"/> have Staves with you, but now what do you think, Hath not my Grace kept you from all Evil? Or elſe, What need have you had of a Sword? Then his Diſci<g ref="char:EOLhyphen"/>ples (not <hi>Peter</hi> only) un<g ref="char:EOLhyphen"/>derſtanding not what Chriſt ſaid, anſwered, There were two Swords.</p>
+               <p>By which we ſee Chriſt ſpoke Ironically, and that all the Diſciples made an<g ref="char:EOLhyphen"/>ſwer, not <hi>Peter</hi> alone; as if he ſhould ſay, I have two Swords, the one ſignifying my Temporal Authority, and the other ſignifying my Spiritual Juriſdiction: nei<g ref="char:EOLhyphen"/>ther would or could Chriſt
+<pb n="54" facs="tcp:57937:41"/> give a Temporal Authority, forasmuch as he was a Spiri<g ref="char:EOLhyphen"/>tual Miniſter. And the Pa<g ref="char:EOLhyphen"/>piſts err extreamly in one Argument, where they ſay, that <hi>Cephas</hi> is a Head, where<g ref="char:EOLhyphen"/>as in Truth, <hi>Cephas</hi> is a Stone, (But when theſe their Argu<g ref="char:EOLhyphen"/>ments are weakned) then they cry it is probable, that <hi>Peter</hi> was the chief Apoſtle, becauſe he ſpake firſt at that time, concerning our Diſ<g ref="char:EOLhyphen"/>pute, and ſo anſwered in be<g ref="char:EOLhyphen"/>half of all the Apoſtles.</p>
+               <p>But it is more likely he was not the Prince over the reſt, becauſe St. <hi>Paul</hi> ſays, <hi>For I ſuppoſe I was not a whit</hi> 
+                  <note place="margin">1 Cor. 11</note> 
+                  <hi>behind the very chiefeſt Apoſtles;
+<pb n="55" facs="tcp:57937:41"/> for in nothing I am behind the</hi> 
+                  <note place="margin">1 Cor. 12</note> 
+                  <hi>very chiefest Apoſtles:</hi> in which number <hi>Peter</hi> is com<g ref="char:EOLhyphen"/>priſed. Now we muſt not diſpute what is moſt proba<g ref="char:EOLhyphen"/>bly true, but what is moſt certainly true. Nevertheleſs let us examine whether it be probable or not: For <hi>An<g ref="char:EOLhyphen"/>drew</hi> ſometimes ſpake firſt, and it is not to be doubted but that each of them ſome<g ref="char:EOLhyphen"/>times ſpake firſt; but it does not therefore follow, that he who ſpeaks ſometimes firſt, muſt be Biſhop of the Bi<g ref="char:EOLhyphen"/>ſhops: his firſt ſpeaking at that time, may ſignify that he was of a very couragious Spirit; or elſe that he could
+<pb n="56" facs="tcp:57937:42"/> have deſired to have been the greateſt: But Chriſt ſaid, <hi>They that humble themſelves like a little Child, ſhall be the great<g ref="char:EOLhyphen"/>eſt</hi> 
+                  <note place="margin">Mat. 18. Luke 1.</note> 
+                  <hi>in the Kingdom of Heaven;</hi> neither is there any lofty proud Title in the Kingdom or Church of Chriſt, as you may ſee in that Magnificate in <hi>Luke,</hi> for God loves Hu<g ref="char:EOLhyphen"/>mility; <note place="margin">Rom. 12 Phil. 2. Luke 9.</note> and Chriſt ſays, in <hi>Luke, If any Man deſire to be firſt, the ſame ſhall be laſt of all, and Servant unto all</hi> And in another Evangeliſt ſaith, <hi>Whoſo receiveth one ſuch little</hi> 
+                  <note place="margin">Mat. 18.</note> 
+                  <hi>Child in my Name, receiveth me; and unleſs ye become as little Children, ye ſhall not be fit for the Kingdom of Heaven.</hi> Nor
+<pb n="57" facs="tcp:57937:42"/> does <hi>Peter</hi> attribute ſo high a Title to himſelf, as the Pope takes upon him. For he writes thus in his Epiſtle, <hi>Peter a Servant and an Apoſtle of Jeſus Christ,</hi> and no more. <note place="margin">2 Pet. 1.</note> But the Pope what does he ſay? <hi>Paul the Third, by the Grace of God, the moſt Holy Pope and Father, Deputy to</hi> Peter, <hi>and Vicar to Christ, King of Kings, Prince of Prin<g ref="char:EOLhyphen"/>ces, Biſhop of the Biſhops, and God on Earth.</hi> Behold there<g ref="char:EOLhyphen"/>fore, how he calls him<g ref="char:EOLhyphen"/>ſelf God, and blaſphemes Chriſt. Behold how he is filled and puffed up with Pride and Vanity. Behold how large and fair a Name
+<pb n="58" facs="tcp:57937:43"/> and Title he takes, tho he be a venemous Serpent; cal<g ref="char:EOLhyphen"/>ling himſelf the moſt Holy Father, whereas he is a de<g ref="char:EOLhyphen"/>teſtable Thief, and conta<g ref="char:EOLhyphen"/>minated with all Unclean<g ref="char:EOLhyphen"/>neſs. He calls himſelf the Pope, which Word ſignifies Father unto all Nations, whilſt he brings them to de<g ref="char:EOLhyphen"/>ſtruction. Nay he calls him<g ref="char:EOLhyphen"/>ſelf the Vicar of Chriſt, and Deputy of St. <hi>Peter,</hi> and God upon Earth; whilſt he is Vicar to <hi>Belzebub,</hi> Deputy to <hi>Lucifer,</hi> and a terreſtrial <hi>Demon:</hi> for he would ſeem to be very Good, whilſt he is very Wicked. And it is no wonder if the Miniſters
+<pb n="59" facs="tcp:57937:43"/> of the Devil appear brave and triumphant outwardly, for St. <hi>Paul</hi> writes to the <hi>Co<g ref="char:EOLhyphen"/>rinthians, No marvel what falſe</hi> 
+                  <note place="margin">2 Cor. 11</note> 
+                  <hi>Apoſtles, and deceitful Workers can transform themſelves into; Satan himſelf being transformed into an Angel of Light.</hi>
+               </p>
+               <p>Wherefore you may eaſi<g ref="char:EOLhyphen"/>ly diſcern the true Miniſters of the Word, from the falſe Anti-Chriſts; becauſe the true Apoſtles walk after the Spirit of God, and the falſe walk after the Fleſh. Let us therefore ſee whether the Pope be the Miniſter of God, or the Devil: which I fear he will prove; pro<g ref="char:EOLhyphen"/>claiming himſelf a good
+<pb n="60" facs="tcp:57937:44"/> Man, a moſt Holy Bi<g ref="char:EOLhyphen"/>ſhop, a King of Kings: whereas he is the Tyrant of Tyrants: all others exerciſe<g ref="char:EOLhyphen"/>ing their Tyranny over Bo<g ref="char:EOLhyphen"/>dies, but this Devil, Wolf, Tyrant, exerciſes his over the Souls of Men, conſtrain<g ref="char:EOLhyphen"/>ing the poor and ſimple Lambs of God to forſake their Faith, whereby they are ſaved, to follow his A<g ref="char:EOLhyphen"/>bominable Traditions and Diabolical Precepts. Which if they refuſe to obey, to wit, adoring Images, and offering to his Idols and Devils, he burns, wracks, and torments them, or forces them to a coſtly Recantation.</p>
+               <pb n="61" facs="tcp:57937:44"/>
+               <p>During the Reign of my late Father the King, when the Pope's Name was blot<g ref="char:EOLhyphen"/>ted out of our Books, he ſtopt the Mouths of Chriſti<g ref="char:EOLhyphen"/>ans with his ſix Articles, as if he would choak them.</p>
+               <p>And at this day in <hi>France,</hi> before any one is burnt, a little before the Execution, they cut out his Tongue, that they might not ſpeak. Con<g ref="char:EOLhyphen"/>ſidering then that the Pope is the Miniſter of <hi>Lucifer,</hi> I am in good hopes, that as <hi>Lucifer</hi> fell from Heaven in<g ref="char:EOLhyphen"/>to Hell, ſo the Pope his Vi<g ref="char:EOLhyphen"/>car will fall from the great Glory of his Papacy, into contemptible Deriſion.</p>
+               <pb n="62" facs="tcp:57937:45"/>
+               <p>For <hi>David</hi> hath ſaid in the <note place="margin">Pſal. 18.</note> 
+                  <hi>Pſalmes, With the pure thou wilt ſhew thy ſelf pure, and with the froward thou wilt ſhew thy ſelf froward.</hi> Again, the Pope hath taken God's Ho<g ref="char:EOLhyphen"/>nour away from him, there<g ref="char:EOLhyphen"/>fore, I hope, God will deveſt him of his Honours and Glory. As <hi>Mary</hi> the Mother of God ſaith, <hi>He hath put</hi> 
+                  <note place="margin">Luke 1.</note> 
+                  <hi>down the Mighty from their Seats, and exalted them of low degree.</hi> Take heed of thy ſelf then (O Pope) for if thou tumbleſt, thou wilt have a terrible fall. As a Man who is got up into an high Tower, would have a huge leap if he ſhould fall
+<pb n="63" facs="tcp:57937:45"/> down; ſo thou who haſt ex<g ref="char:EOLhyphen"/>alted thy ſelf into the Hea<g ref="char:EOLhyphen"/>vens, wouldſt fall down in<g ref="char:EOLhyphen"/>to the Abyſs of Hell: As Chriſt foretold of <hi>Tyre</hi> and <note place="margin">Mat. 11.</note> 
+                  <hi>Sidon.</hi>
+               </p>
+               <p>But to return to the Pope's Primacy: I know very well that the Scripture ſpeaks of one God<g ref="char:punc">▪</g> one Faith, one <note place="margin">Eph. 4. 1 Cor. 8. 1 Tim. 2. Mat. 19.</note> Baptiſm, but no mention of one Pope. Now if <hi>Peter</hi> had been a God on Earth, and Vicar of Chriſt, we ſhould have been baptized into his Name. But <hi>Paul</hi> 
+                  <note place="margin">2 Cor. 11 2 Cor. 12</note> (who affirms himſelf to be inferior to none of the other Apoſtles) will not allow us to be baptized in his Name:
+<pb n="64" facs="tcp:57937:46"/> nay he is ſo far from having us baptized in the Name of <hi>Peter,</hi> that he will not have it ſaid, I am of <hi>Peter,</hi> or of <hi>Paul,</hi> or of <hi>Apollos.</hi>
+               </p>
+               <p>And now that the Papiſts cannot prove by the Scrip<g ref="char:EOLhyphen"/>tures that we ought to have one Pope, they run to Simi<g ref="char:EOLhyphen"/>litudes; ſaying, that as the Creatures in the Earth (as the Bees) have a King over them; ſo all Chriſtians ought to have one King and Pope. To which I will an<g ref="char:EOLhyphen"/>ſwer three ways: Firſt, That their Reaſon is not extracted from the Holy Scripture, but from their own Invention. Secondly, That all the Bees
+<pb n="65" facs="tcp:57937:46"/> which are in the World, or in Chriſtendom, have not a King. Thirdly, That if all Bees have their King; ſo have we, to wit, Jeſus <note place="margin">Eph. 1.</note> Chriſt.</p>
+               <p>But the Papiſts will then ſay, That if we condemn the Papacy, we ſhall condemn our fore-Fathers as Here<g ref="char:EOLhyphen"/>ticks. I will anſwer to that, as God anſwered <hi>Elijah,</hi> 
+                  <note place="margin">1 Kin. 19</note> when he ſaid to the Lord that the Children of <hi>Iſrael</hi> had forſaken his Covenant, and were unjuſt and wicked, <hi>Yet I have left me ſeven thouſand in</hi> Iſrael, <hi>all the Knees which have not bowed to</hi> Baal. Nei<g ref="char:EOLhyphen"/>ther muſt we imagine, but
+<pb n="66" facs="tcp:57937:47"/> that there have been many Chriſtians in the World, ſome of which have ſpoken openly againſt the Papacy, and others that have kept their Knowledg and Senti<g ref="char:EOLhyphen"/>ments to themſelves: but the Papiſts will not ſuffer us to know more than our Fa<g ref="char:EOLhyphen"/>thers. But I know very well, that our Religion conſiſts not of old Cuſtoms, or the Uſage of our Fathers; but in the Holy Scriptures, and Divine Word: And that (if you think Antiquity and Cuſtom makes a thing good) is older than the World: For God is the Word, who was without
+<pb n="67" facs="tcp:57937:47"/> beginning, and ſhall conti<g ref="char:EOLhyphen"/>nue <note place="margin">Joh. 1. Exod. 2.</note> without end; and if you think, Truth ought to be followed and obeyed, all Truth is contained in that Book. Our Religion ought not to be ſteered or govern<g ref="char:EOLhyphen"/>ed by our fore-Fathers: for <hi>Ezekiel</hi> ſaith, <hi>Walk ye not in the Statutes of your Fathers, for they</hi> 
+                  <note place="margin">Ezek. 20</note> 
+                  <hi>were polluted.</hi> Moreover, our God, and Saviour, and Re<g ref="char:EOLhyphen"/>deemer, Jeſus Chriſt, ſaid, <hi>I am the Way, and the Truth, and</hi> 
+                  <note place="margin">Joh. 14.</note> 
+                  <hi>the Life;</hi> he did not ſay, I am the old Cuſtom.</p>
+               <p>The Papiſts then ſay, that tho Chriſt did not indeed ordain the Pope, yet he left it to the Church to do it. To
+<pb n="68" facs="tcp:57937:48"/> which I ask, how <hi>Peter</hi> then was elected the univerſal Bi<g ref="char:EOLhyphen"/>ſhop? For all things neceſſary to our Salvation are written in the Bible, as St. <hi>Paul</hi> teſti<g ref="char:EOLhyphen"/>fies in his Epiſtle to <hi>Timothy,</hi> 
+                  <note place="margin">1 Tim. 3.</note> where he ſays, <hi>But continue thou in the things which thou haſt learned,</hi> &amp;c. <hi>And that from a Child thou haſt known the Ho<g ref="char:EOLhyphen"/>ly Scriptures, which are able to make thee wiſe unto Salvation, through Faith which is in Christ Jeſus.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <pb n="69" facs="tcp:57937:48"/>
+               <head>The Second Part.</head>
+               <p>BUT to what Purpoſe do we go about to prove that <hi>Peter</hi> is not the Head of the Church? For al<g ref="char:EOLhyphen"/>low he had been ſo, that does not conclude that the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Rome</hi> is the principal Head: For the Papiſts them<g ref="char:EOLhyphen"/>ſelves cannot prove that <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> was ever at <hi>Rome,</hi> becauſe by the Scripture they cannot prove it; nor by any true Hiſtory: Therefore the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Rome</hi> loſes one of his great Titles, of, <hi>Papa ex
+<pb n="70" facs="tcp:57937:49"/> Jure Divino;</hi> for no Authori<g ref="char:EOLhyphen"/>ty can be, <hi>ex Jure Divino,</hi> un<g ref="char:EOLhyphen"/>leſs it be confirmed by the Scripture.</p>
+               <p>Well then, we have him in a great plunge, ſince he muſt be forced to ſay, <hi>Paul</hi> Pope by Human Traditi<g ref="char:EOLhyphen"/>ons; for if he be not Biſhop by the Divine Word, but only by Human Traditions, then all Kings, Princes and other Magiſtrates, may ab<g ref="char:EOLhyphen"/>rogate the Statutes and Inſti<g ref="char:EOLhyphen"/>tutions made by their Fathers, as we have ſeen before.</p>
+               <p>If every one then had known this, the Pope had been poor long ago. Now the Papiſts ſay, that the Bi<g ref="char:EOLhyphen"/>ſhop
+<pb n="71" facs="tcp:57937:49"/> of <hi>Rome</hi> was inſtituted by the Primitive Church; but no more than <hi>Mahomet,</hi> for they began near the ſame Age, and the Pope was ele<g ref="char:EOLhyphen"/>cted, when all manner of wicked Errors were advan<g ref="char:EOLhyphen"/>ced in Chriſtendom.</p>
+               <p>Nevertheleſs to prove that <hi>Peter</hi> was at <hi>Rome,</hi> they produce the <hi>Clementine</hi> Epi<g ref="char:EOLhyphen"/>ſtles, but we will prove them counterfeited, and fal<g ref="char:EOLhyphen"/>ſified by the Papiſts: For in them it is written that <hi>Peter</hi> was at <hi>Rome,</hi> in the ſecond Year of the Reign of <hi>Claudi<g ref="char:EOLhyphen"/>us,</hi> and lived there twenty five Years: but Chriſt was Crucified in the eighteenth
+<pb n="72" facs="tcp:57937:50"/> Year of <hi>Tiberius,</hi> and he reigned five Years after the Crucifixion: <hi>Caius Caligula</hi> reigned four Years; and <hi>Claudius</hi> two; which makes it eleven Years before <hi>Peter</hi> went to <hi>Rome:</hi> and in the eighteenth Year of our Lord, <hi>Paul</hi> found St. <hi>Peter</hi> 
+                  <note place="margin">Gal. 1.</note> in <hi>Jeruſalem;</hi> by which we ſee their Hiſtory is falſe. And we will prove that it is not true that <hi>Clement</hi> wrote thoſe Epiſtles unto <hi>James,</hi> for <hi>James</hi> was dead before <hi>Cle<g ref="char:EOLhyphen"/>ment</hi> was Biſhop.</p>
+               <p>Moreover, St. <hi>Peter</hi> was the Biſhop of the <hi>Jews,</hi> and not of the <hi>Gentiles:</hi> for St. <hi>Paul</hi> glories in ſeveral places <note place="margin">Gal. 2.</note>
+                  <pb n="73" facs="tcp:57937:50"/> that he was the Apoſtle of the <hi>Gentiles.</hi> Again, St. <hi>Paul</hi> writing to the <hi>Galatians,</hi> ſays, that he went up to <hi>Jeruſalem</hi> 
+                  <note place="margin">Gal. 1.</note> to ſee <hi>Peter;</hi> therefore 'tis moſt probable, that <hi>Peter</hi> dwelt for the moſt part in <hi>Jeruſalem:</hi> or in the adjacent Cities. And here we may ſee the Craft of the Devil, and the Power of God: for notwithſtanding the Devil (to eſtabliſh his Power) in<g ref="char:EOLhyphen"/>vented the <hi>Clementine</hi> Epi<g ref="char:EOLhyphen"/>ſtles; (tho they be counter<g ref="char:EOLhyphen"/>feited by the Papiſts) yet I ſay, God by his Goodneſs and Clemency towards his Elect, hath cauſed the ſaid Epiſtles to be ſo written, that
+<pb n="74" facs="tcp:57937:51"/> every one who hath read Hi<g ref="char:EOLhyphen"/>ſtory, may plainly compre<g ref="char:EOLhyphen"/>hend and underſtand, that they were feigned by Ser<g ref="char:EOLhyphen"/>pentine Subtilty, and by ſome abominable and ob<g ref="char:EOLhyphen"/>durate Papiſts.</p>
+               <p>In ſeveral other Inſtances alſo, we may diſcover their falſe Subtilty; for notwith<g ref="char:EOLhyphen"/>ſtanding that the Holy Scripture ſaith, Idols are ſenſleſs things, and without Life, they have often framed Images, which ſometimes rouled their Eyes, ſometimes turned their Heads, ſome<g ref="char:EOLhyphen"/>times moved their Hands, and ſometimes their whole Bodies: by which means
+<pb n="75" facs="tcp:57937:51"/> they made People believe, that an Image made of Wood, heard and underſtood them; all of it being made ſo to the Life, that (as they turned them) they made the Head and Eyes of the Image to turn alſo. But, as <hi>Daniel</hi> with Aſhes or Sand, pro<g ref="char:EOLhyphen"/>ved the Idol <hi>Bel</hi> did not eat, but his Prieſts: So by the Holy Scriptures, the confeſ<g ref="char:EOLhyphen"/>ſion of ſeveral Perſons, and by Obſervation and Experi<g ref="char:EOLhyphen"/>ence, they have been proved to have been meer Ma<g ref="char:EOLhyphen"/>chines, and other Inſtru<g ref="char:EOLhyphen"/>ments.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="76" facs="tcp:57937:52"/>
+               <head>The Third Part.</head>
+               <p>SInce we ſee that <hi>Peter</hi> neither was the Chief, nor was at <hi>Rome;</hi> (conſide<g ref="char:EOLhyphen"/>ring that they ſay the Pope cannot lye) we will examine whether they themſelves have not acknowledged that no Perſon ought to be the Primate of the Church.</p>
+               <p>For <hi>Gregory</hi> the Firſt hath written, that none ought to be Pope. <hi>Gregory</hi> was then Biſhop of <hi>Rome,</hi> and <hi>Mau<g ref="char:EOLhyphen"/>rice</hi> was Emperour, and there were many Hereſies in
+<pb n="77" facs="tcp:57937:52"/> Chriſtendom; and the Bi<g ref="char:EOLhyphen"/>ſhop and Patriarch of <hi>Con<g ref="char:EOLhyphen"/>ſtantinople,</hi> at that time pre<g ref="char:EOLhyphen"/>tended to be the Univerſal Biſhop, who was much fa<g ref="char:EOLhyphen"/>voured by <hi>Maurice:</hi> But <hi>Gregory</hi> declared then in his Writings, that there ought to be no Principal in the Church.</p>
+               <p>And now the Papiſts are overthrown by this, they ſay that by the conſent of the general Councils, and Do<g ref="char:EOLhyphen"/>ctors, an Univerſal Biſhop was eſtabliſhed under the Name of Pope: whereas for four or five hundred Years after Chriſt, there was no Perſon in the World that
+<pb n="78" facs="tcp:57937:53"/> was diſtinguiſhed or called by that Name. Moreover, when there were ſeveral contentions about the Papa<g ref="char:EOLhyphen"/>cy, all learned Perſons de<g ref="char:EOLhyphen"/>teſted the Opinion that there muſt be a Pope: and ſome<g ref="char:EOLhyphen"/>times the very Biſhops of <hi>Rome</hi> themſelves abhorred it. And St. <hi>Cyprian,</hi> writing <note place="margin">Cyprian. <hi>De ſim<g ref="char:EOLhyphen"/>plicitate Prelato<g ref="char:EOLhyphen"/>rum.</hi>
+                  </note> concerning the Unity of the Church, ſaith, There is one Biſhop, of whom every Biſhop holds a ſhare. For as there are many Beams in the Sun, yet the brightneſs is but one: Many Branches in a Tree, ſeveral Streams from a Fountain; in like man<g ref="char:EOLhyphen"/>ner the Church is but one,
+<pb n="79" facs="tcp:57937:53"/> which being illuminated by the Brightneſs of our Lord, who extends his Beams throughout all the World, yet nevertheleſs the Clarity is but one, to wit, Jeſus Chriſt. Likewiſe the ſame <note place="margin">Cyprian. <hi>Epiſt. ad</hi> Corn.</note> 
+                  <hi>Cyprian,</hi> being Biſhop of <hi>Car<g ref="char:EOLhyphen"/>thage,</hi> calls the Biſhop of <hi>Rome</hi> his Companion. More<g ref="char:EOLhyphen"/>over, St. <hi>Jerom,</hi> Biſhop of <note place="margin">Jerom. <hi>Epiſt. ad</hi> Euag.</note> 
+                  <hi>Rome,</hi> humbles the Stile of Primate; ſaying, if there be any queſtion of the Au<g ref="char:EOLhyphen"/>thority of a Primate of the Church, altho there are Biſhops of Nations and Ci<g ref="char:EOLhyphen"/>ties, it follows not therefore that there is a Primate over all the World, for the World
+<pb n="80" facs="tcp:57937:54"/> is much greater than any Ci<g ref="char:EOLhyphen"/>ty. And alſo in the Council of <hi>Carthage</hi> it was decreed, that none ſhould be called the Firſt or Primate of the Biſhops.</p>
+               <p>What ſhall I ſay more, <note place="margin">Auguſt. <hi>Epiſt. 28. ad</hi> Conſt.</note> 'twas conſented and agreed by all, for ſix hundred Years after Chriſt, that none ought to be Pope. How could <hi>Peter</hi> then have been Pri<g ref="char:EOLhyphen"/>mate, or the Pope his Suc<g ref="char:EOLhyphen"/>ceſſor? For <hi>Peter</hi> in his Epi<g ref="char:EOLhyphen"/>ſtles does not command, but pray and beſeech the Mini<g ref="char:EOLhyphen"/>ſters of God. Likewiſe when he is accuſed for ha<g ref="char:EOLhyphen"/>ving communicated with the <hi>Gentiles,</hi> he does not burn <note place="margin">Act. 11.</note>
+                  <pb n="81" facs="tcp:57937:54"/> his Accuſers, as the Pope does his: but excuſes him<g ref="char:EOLhyphen"/>ſelf, and ſhews a Submiſſion.</p>
+               <p>Again, when he was ſent to <hi>Samaria</hi> by his Brethren <note place="margin">Act. 8.</note> and Companions, he readi<g ref="char:EOLhyphen"/>ly obey'd their Decree and went down to that City.</p>
+            </div>
+            <div n="4" type="part">
+               <pb n="82" facs="tcp:57937:55"/>
+               <head>The Fourth Part.</head>
+               <p>OF this Deteſtable and Diabolical Pope, the Holy Scriptures in ſeveral Places give us a plenary De<g ref="char:EOLhyphen"/>monſtration; ſome of which I ſhall ſhew unto you. As firſt, in the fourth of <hi>Daniel,</hi> it is ſet down how that <hi>Daniel</hi> (that was beloved by <hi>Bel<g ref="char:EOLhyphen"/>ſhazzar)</hi> ſaw a Viſion, which appeared to him thus: <hi>I ſaw,</hi> ſays Daniel, <hi>in my Viſion by Night, and behold, the four Winds of the Heaven ſtrove up<g ref="char:EOLhyphen"/>on the great Sea, and four great
+<pb n="83" facs="tcp:57937:55"/> Beaſts came up out of the Earth; the firſt was like a Lion, and had Eagles Wings; and I beheld till the Wings thereof were pluck'd, and a Man's Heart was given to it. The ſecond Beaſt was like un<g ref="char:EOLhyphen"/>to a Bear, and it raiſed up it ſelf on one ſide; and they ſaid thus unto it, Ariſe, devour much Fleſh. The third was like unto a Leopard, which had upon the Back of it four Wings of a Fowl, and the ſaid Beaſt had alſo four Heads. After this I beheld the fourth Beaſt, which was dread<g ref="char:EOLhyphen"/>ful and terrible, and ſtrong ex<g ref="char:EOLhyphen"/>ceedingly; and it had great Iron Teeth; and devoured every thing; and it had ten Horns. And be<g ref="char:EOLhyphen"/>hold, there came up among them
+<pb n="84" facs="tcp:57937:56"/> another little Horn, before whom there were three of the firſt Horns pluck'd up by the Roots; and it had Eyes, and a Mouth ſpeaking Blaſphemies. And I beheld till I ſaw the Ancient of Days did ſit, and I beheld,</hi> ſaith Daniel, <hi>till the Judgment was ſet for the Horn, and till the Beaſt was ſlain, and his Body given to the burning Flame: and it ſhall be for a time, times, and a half.</hi> Now the four Winds, and the four Beaſts (as <hi>Melancthon, Oecolampadius,</hi> and all the Learned Writers ſay) ſignify the four Mo<g ref="char:EOLhyphen"/>narchies; the firſt was that of the <hi>Aſſyrians,</hi> whereof <hi>Nebuchadnezzar</hi> was Empe<g ref="char:EOLhyphen"/>rour;
+<pb n="85" facs="tcp:57937:56"/> who (after he had been made like unto the Beaſts for a long Seaſon) had the underſtanding of a Man given him again. The ſe<g ref="char:EOLhyphen"/>cond ſignified the Empire of the <hi>Perſians,</hi> which was a Dominion of great Cruelty. The third notified the <hi>Greci<g ref="char:EOLhyphen"/>an</hi> Empire, which was im<g ref="char:EOLhyphen"/>mediately raiſed to its Gran<g ref="char:EOLhyphen"/>dure; and the four Wings, and four Heads ſignify the four Emperours which ſuc<g ref="char:EOLhyphen"/>ceeded <hi>Alexander,</hi> and divi<g ref="char:EOLhyphen"/>ded amongſt them the <hi>Greci<g ref="char:EOLhyphen"/>an</hi> Monarchy: For <hi>Seleucus</hi> was made King of <hi>Syria, Ptolomy</hi> got <hi>Egypt, Antigonus Aſia,</hi> and <hi>Caſſander Greece.</hi>
+                  <pb n="86" facs="tcp:57937:57"/> The fourth Beaſt ſignifies the terrible Monarchy of the <hi>Romans,</hi> out of which ariſes a little Horn, which is Anti-Chriſt; and Anti-Chriſt hath two Eyes, <hi>viz.</hi> the Pope, and <hi>Mahomet:</hi> For notwith<g ref="char:EOLhyphen"/>ſtanding that the Pope doth not ſpeak againſt Chriſt (as <hi>Mahomet</hi> doth); nevertheleſs I anſwer, that the Pope is as much, or rather more, an Anti-Chriſt than <hi>Mahomet.</hi> For as he who flatters us, is our Enemy (tho he ſeems to be our Friend): So the Pope who ſtiles himſelf the Servant of the Servants of God, is the Enemy of Chriſt; whilſt under the Shadow of Re<g ref="char:EOLhyphen"/>ligion,
+<pb n="87" facs="tcp:57937:57"/> he puts in practice all Hypocriſy, Idolatry, Diſſimulation, and all ſort of Traditions: his Time ſhall be a Time, Times, and a half; that is to ſay, his Days ſhall be ſhortned: For the number of ſeven ſtands for a perfect number in Scrip<g ref="char:EOLhyphen"/>ture: for St. <hi>Paul</hi> ſays, the juſt fall ſeven times a day, to wit, often. Now the half of ſeven, is three and a half; therefore we muſt interpret by that imperfect time, that thoſe Days ſhall be ſhortned. St. <hi>Paul</hi> alſo in two Epiſtles, Propheſies of the Pope; firſt, writing to the <hi>Theſſalonians,</hi> he ſays, <hi>Now we beſeech you</hi> 
+                  <note place="margin">2 Theſ. 2</note>
+                  <pb n="88" facs="tcp:57937:58"/> 
+                  <hi>Brethren, by the coming of our Lord, that ye be not ſoon ſhaken in Mind, or be troubled, neither by Spirit, nor by Word, nor by Letter, as that the Day of Chriſt is at hand. Let no Man deceive you by any Means, for that day ſhall not come, except there come a falling away firſt, and that Man of Sin be revealed, the Son of Perdition: who oppoſeth and exalteth himſelf above God, ſo that he as God ſitteth in the Temple of God,</hi> &amp;c. Again, St. <hi>Paul</hi> writing to <hi>Timothy,</hi> ſpeaks thus: <hi>Now the Spirit</hi> 
+                  <note place="margin">1 Tim. 4.</note> 
+                  <hi>ſpeaketh expreſly, that in the lat<g ref="char:EOLhyphen"/>ter times ſome ſhall depart from the Faith; giving heed to Do<g ref="char:EOLhyphen"/>ctrines of Devils, ſpeaking Lies
+<pb n="89" facs="tcp:57937:58"/> in Hypocriſy, forbidding to Marry, and commanding to ab<g ref="char:EOLhyphen"/>ſtain from Meats, which God hath created to be received with Thanksgiving of them which be<g ref="char:EOLhyphen"/>lieve.</hi> Now let every one be ask'd, if the Pope hath not forbidden certain Meats, at certain times: and they muſt all confeſs he hath, for moſt Folks have felt it; or per<g ref="char:EOLhyphen"/>chance, I ſhould not be a Lyar if I ſaid, that almoſt all Folks have.</p>
+               <p>And concerning the Pro<g ref="char:EOLhyphen"/>hibition of Marriage, ask their own Prieſts. St. <hi>Peter</hi> tells us, that there ſhall come <note place="margin">2 Pet. 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> in the laſt days Scoffers, <hi>&amp;c.</hi> St. <hi>John</hi> in the Apocalypſe
+<pb n="90" facs="tcp:57937:59"/> ſays, <hi>Seven Angels poured out</hi> 
+                  <note place="margin">Apo. 16.</note> 
+                  <hi>the Vials of God's Wrath upon the Earth;</hi> and the ſigni<g ref="char:EOLhyphen"/>fication is probable to be thus.</p>
+               <p>The firſt Vial to be the <hi>Aſſyrian</hi> Monarchy; when the People of <hi>Iſrael</hi> became Captive to <hi>Nebuchadnezzar.</hi> The ſecond the <hi>Perſian</hi> Mo<g ref="char:EOLhyphen"/>narchy. The third Vial the Monarchy of the <hi>Grecians,</hi> which <hi>Alexander</hi> firſt eſtab<g ref="char:EOLhyphen"/>liſhed. The fourth was the <hi>Roman</hi> Monarchy, which the Apocalypſe (becauſe of its Grandure) ſays, the fourth Vial was poured up<g ref="char:EOLhyphen"/>on the Sun. The fifth is our Anti-Chriſt the Pope. The
+<pb n="91" facs="tcp:57937:59"/> ſixth Vial is the Dominion of <hi>Mahomet.</hi> The ſeventh Vial ſignifies the end of the World, and the Day of Judgment.</p>
+               <p>In the following Chapter he declares, that one of the ſeven Angels came and talk<g ref="char:EOLhyphen"/>ed with him, and ſhewed him the State, Honour and Riches of the Pope: For he ſays, he ſaw, <hi>A Woman ſit</hi> 
+                  <note place="margin">Apo. 17.</note> 
+                  <hi>upon the Beaſt, full of Names of Blaſphemy, having ſeven Heads, and ten Horns; and the Woman was arayed in Pur<g ref="char:EOLhyphen"/>ple, and Scarlet Colour, and deck<g ref="char:EOLhyphen"/>ed with Gold; having a golden Cup in her Hand, full of Abo<g ref="char:EOLhyphen"/>minations, and filthineſs of her
+<pb n="92" facs="tcp:57937:60"/> Fornications: and upon her fore<g ref="char:EOLhyphen"/>head was written,</hi> Babylon <hi>the Mother of Harlots, and Abomi<g ref="char:EOLhyphen"/>nations of the Earth.</hi> The ſe<g ref="char:EOLhyphen"/>ven Heads ſignify the ſeven <note place="margin">Apo. 17.</note> Hills which Anti-Chriſt dwells on: For <hi>Rome</hi> is built upon ſeven Moun<g ref="char:EOLhyphen"/>tains. The ſeven Horns are the number of the Kings, who made War with the Lamb, and the Lamb over<g ref="char:EOLhyphen"/>came them, for he is Lord of Lords, and King of Kings; then another Angel came down from Heaven, <hi>Crying,</hi> Babylon <hi>is fallen, and</hi> 
+                  <note place="margin">Apo. 18.</note> 
+                  <hi>is become the Habitation of De<g ref="char:EOLhyphen"/>vils;</hi> thence I hope, that the Kingdom of Anti-Chriſt
+<pb n="93" facs="tcp:57937:60"/> ſhall be deſtroyed: For tho the wicked may proſper for a time, their Dominion ſhall not laſt; but thoſe who ſtudy the Law of the Lord, their Proſperity ſhall laſt for ever. St. <hi>Paul,</hi> wri<g ref="char:EOLhyphen"/>ting to <hi>Timothy,</hi> ſays, <hi>This</hi> 
+                  <note place="margin">1 Tim. 3.</note> 
+                  <hi>know alſo, that in the laſt days, Men ſhall be lovers of their own</hi> 
+                  <note place="margin">2 Pet. 3.</note> 
+                  <hi>ſelves, Covetous, Boaſters, Proud, Blaſphemers,</hi> &amp;c. And the Prophet <hi>Iſaiah</hi> ſaith, that Chriſt <hi>ſhall ſmite the</hi> 
+                  <note place="margin">Iſa. 11.</note> 
+                  <hi>Earth, with the Rod of his Mouth, and with the Breath of his Lips ſhall he ſlay the wick<g ref="char:EOLhyphen"/>ed.</hi>
+               </p>
+               <pb n="94" facs="tcp:57937:61"/>
+               <p>Since we ſee then that the reign of Anti-Chriſt ſhall not laſt for ever, we muſt wait for the Deſtruction of <hi>Babylon,</hi> and ſubmit our ſelves to the Will of the Lord.</p>
+            </div>
+            <div type="conclusion">
+               <head>The Concluſion.</head>
+               <p>IN the firſt Part of our Book, We have proved and declared that <hi>Peter</hi> was not Primate of the Church, by confuting all the Papiſti<g ref="char:EOLhyphen"/>cal Reaſons for it.</p>
+               <p>In the ſecond, We have proved that they cannot produce and alledge any
+<pb n="95" facs="tcp:57937:61"/> true Teſtimony, that St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> was at <hi>Rome.</hi>
+               </p>
+               <p>In the third Part, we have proved from themſelves, that they have ſaid they ought not to have the Pri<g ref="char:EOLhyphen"/>macy.</p>
+               <p>In the fourth Part, We have explained the Prophe<g ref="char:EOLhyphen"/>ſies ſpeaking of Anti-Chriſt. Since then the Pope is that wicked one, very Son of the Devil, an Anti-Chriſt, and an abominable Tyrant; let us pray unto the Lord to pre<g ref="char:EOLhyphen"/>ſerve thoſe ſtill in the Light who have ſeen it: and that he will ſhew the ſincere, pure, and true Light unto thoſe who ſit in Darkneſs:
+<pb n="96" facs="tcp:57937:62"/> that all the World may glo<g ref="char:EOLhyphen"/>rify God in this Life, and be Partakers of the Eternal Kingdom of Heaven in the World to come, by the Me<g ref="char:EOLhyphen"/>rits of Jeſus Chriſt our Savi<g ref="char:EOLhyphen"/>our; to whom with the Fa<g ref="char:EOLhyphen"/>ther, and the Holy Ghoſt, be all Honour, Glory, Do<g ref="char:EOLhyphen"/>minion and Praiſe, for ever and ever. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="remarks">
+            <pb n="97" facs="tcp:57937:62"/>
+            <head>Remarques upon the Life and Reign of King <hi>Edward</hi> the Sixth, in Vindica<g ref="char:EOLhyphen"/>tion of his Memory, from Dr. <hi>Heylin</hi>'s ſevere and unjuſt Cenſure.</head>
+            <p>WHen I conſider what exem<g ref="char:EOLhyphen"/>plary Vertue, and Piety, ſhone forth in the Words, Actions, and Wri<g ref="char:EOLhyphen"/>tings
+<pb n="98" facs="tcp:57937:63"/> of this <hi>Illuſtrious King,</hi> ſome of whoſe Papers I have been an unworthy Inſtru<g ref="char:EOLhyphen"/>ment of tranſmitting to the admiration of Poſterity; I cannot but with Indignation repeat the thought of Dr. <note place="margin">Pref. to Hiſt. of Ref. ſup.</note> 
+               <hi>Heylin</hi>'s ſnarling Cenſure, who counted it <hi>no Infelicity,</hi> that he was ſo ſoon ſucceed<g ref="char:EOLhyphen"/>ed by <hi>Q. Mary,</hi> a bloody <hi>Po<g ref="char:EOLhyphen"/>piſh Queen,</hi> and had the Malice to charge him with <hi>being ill</hi> 
+               <note place="margin">Ibid.</note> 
+               <hi>principled in himſelf, and eaſily in<g ref="char:EOLhyphen"/>clined to embrace ſuch Councils,</hi> as the Doctor look'd upon as pernicious to the Church. Nay, he ſays expreſly, that <hi>his</hi> 
+               <note place="margin">Hiſt. of Ref. <hi>f.</hi> 131.</note> 
+               <hi>Minority was abuſed to many Acts of Spoil and Rapine,</hi> even
+<pb n="99" facs="tcp:57937:63"/> 
+               <hi rend="blackletterType">to an high degree of Sacriledge,</hi> and having affirmed that this was <hi>only to the raiſing of ſome, and to the en<g ref="char:EOLhyphen"/>riching of others about him, with<g ref="char:EOLhyphen"/>out any manner of improvement to his own Eſtate;</hi> he, with a ſly Inſinuation, leaves it to the Readers Judgment, <hi>Whether</hi> 
+               <note place="margin">Ibid. <hi>p.</hi> 132.</note> 
+               <hi>the King being in the ſixteenth Year of his Age, were either bet<g ref="char:EOLhyphen"/>ter ſtudyed in his own Concern<g ref="char:EOLhyphen"/>ments, or ſeemed to be worſe. principled in matters which con<g ref="char:EOLhyphen"/>concerned the Church.</hi>
+            </p>
+            <p>Hereby the Doctor wipes away all the Eulogies, which in ſeveral places of his Book Truth had drawn from him. Indeed he cites the Paſſage
+<pb n="100" facs="tcp:57937:64"/> out of <hi>Joſephus,</hi> who, ſpeak<g ref="char:EOLhyphen"/>ing of good King <hi>Joſias,</hi> ſays, <hi>When he grew to be twelve years</hi> 
+               <note place="margin">Hiſt. of Ref. <hi>f.</hi> 38.</note> 
+               <hi>old, he gave manifeſt proof of his Piety and Juſtice: for he drew the People to a conformable courſe of Life, and to the dete<g ref="char:EOLhyphen"/>ſtation and aboliſhing of Idols, that were no Gods, and to the Service of the only true God of their fore-Fathers; and conſide<g ref="char:EOLhyphen"/>ring the Actions of his Prede<g ref="char:EOLhyphen"/>ceſſors, he began to rectify them in that wherein they were defici<g ref="char:EOLhyphen"/>ent, with no leſs circumſpection than if he had been an old Man, and that which he found to be cor<g ref="char:EOLhyphen"/>reſpondent and adviſedly done by them, that he did both maintain and imitate: all which things he
+<pb n="101" facs="tcp:57937:64"/> did both by reaſon of his innate Wiſdom, as alſo by the Admoniſh<g ref="char:EOLhyphen"/>ment and Counſel of his Elders: in following orderly the Laws, not only in Matters of Religion, but of Civil Polity.</hi> Which as the Doctor acknowledges, <hi>puts the Parallel betwixt the two young Kings beyond all ex<g ref="char:EOLhyphen"/>ception.</hi>
+            </p>
+            <p>But then the forementi<g ref="char:EOLhyphen"/>oned Reflection is big with a monſtrous Intimation, as if all the vaſt hopes which this young King gave, were bla<g ref="char:EOLhyphen"/>ſted in their too forward Spring.</p>
+            <p>And the ground of all this <hi>Sacriledge,</hi> as I may call it, againſt his Memory,
+<pb n="102" facs="tcp:57937:65"/> was taken from ſome In<g ref="char:EOLhyphen"/>ſtructions (which a learned <note place="margin">Dr. <hi>Bur<g ref="char:EOLhyphen"/>net</hi>'s Hiſt. of Ref. <hi>par. 2. f.</hi> 217.</note> Author excuſes, from their being ſigned as they were brought to him in his <hi>Sick<g ref="char:EOLhyphen"/>neſs,</hi> whereby he appointed <note place="margin">
+                  <hi>Heylin</hi>'s Hiſt. <hi>f.</hi> 95. and 132.</note> Viſitors to examine, <hi>What Jewels of Gold and Silver, or Silver Croſſes, Candleſticks, Cenſers, Challices, Copes, and other Veſtments were then re<g ref="char:EOLhyphen"/>maining, in any of the Cathedral, or Parochial Churches, or other<g ref="char:EOLhyphen"/>wiſe had been embezelled or ta<g ref="char:EOLhyphen"/>ken away:</hi> What was conve<g ref="char:EOLhyphen"/>nient for uſe, was to be di<g ref="char:EOLhyphen"/>ſtributed <note place="margin">
+                  <hi>Burnet</hi>'s Hiſt. <hi>f.</hi> 217.</note> to every <hi>Church, Chappel, or Cathedral,</hi> of the Surpluſage part was to be given to the Poor, and the
+<pb n="103" facs="tcp:57937:65"/> other part was to be deliver<g ref="char:EOLhyphen"/>ed to the King's Treaſurer.</p>
+            <p>Now admit that the young King did not think every thing to be God's, which was given him by ſu<g ref="char:EOLhyphen"/>perſtitious Piety, not belie<g ref="char:EOLhyphen"/>ving that God would accept that as his peculiary, which ſerv'd either for vain Pomp, and Oſtentation, or elſe ad<g ref="char:EOLhyphen"/>miniſtred to the Luxury and Pride of the lazy Prieſts; Was not his well manag'd Zeal againſt Popery, and his full purpoſe of reform<g ref="char:EOLhyphen"/>ing the Nation from Ido<g ref="char:EOLhyphen"/>latry, and Superſtition, (and that too crown'd with Suc<g ref="char:EOLhyphen"/>ceſs, far beyond what could
+<pb n="104" facs="tcp:57937:66"/> have been expected from ſuch a conſpiration of Cir<g ref="char:EOLhyphen"/>cumſtances, as then were a<g ref="char:EOLhyphen"/>gainſt it,) enough to atone for this?</p>
+            <p>The Doctor himſelf was <note place="margin">
+                  <hi>Heylin</hi>'s Hiſt. <hi>f.</hi> 9.</note> obliged to own, <hi>That by clear Light of Holy Scripture, and the principal Duties of Reli<g ref="char:EOLhyphen"/>gion laid open to them, the Peo<g ref="char:EOLhyphen"/>ple were the better able to diſcern the Errours and Corruptions of the Church of</hi> Rome, <hi rend="blackletterType">from which by the Piety of this Prince they were fully freed.</hi> And is not the good of Souls, and the Edification of God's Church and People, preſervable be<g ref="char:EOLhyphen"/>fore the Ornaments of the
+<pb n="105" facs="tcp:57937:66"/> Altar, and the exceſſive Riches, or vain Veſtments of Church-men?</p>
+            <p>But the ſuppoſed Sacri<g ref="char:EOLhyphen"/>ledge is <hi>Death in the Pot.</hi>
+            </p>
+            <q xml:lang="lat">—Manet altà mente repôſtum, Judicium <hi rend="blackletterType">Edwardi; ſpre<g ref="char:EOLhyphen"/>tique</hi> injuria <hi rend="blackletterType">Spectri.</hi>
+            </q>
+            <p>If you look to the bottom of this Clamour about Sa<g ref="char:EOLhyphen"/>criledge, it is not for robbing God of what is his; for if it were ſo, Church-men could have no Power of diſpoſing of things once given to the Church, tho with the con<g ref="char:EOLhyphen"/>ſent of the Founder, where<g ref="char:EOLhyphen"/>as even in the moſt Superſti<g ref="char:EOLhyphen"/>tious
+<pb n="106" facs="tcp:57937:67"/> Times, ſome Spiritual Corporations might have alien'd their Church-Lands, without conſent of the <note place="margin">1 <hi>Inſt. f.</hi> 300. b.</note> Founders. So that in ſhort, the Sacriledge lies in clip<g ref="char:EOLhyphen"/>ping the Wings, and abridg<g ref="char:EOLhyphen"/>ing the Power of <hi>Church-men,</hi> who were little <hi>God-almighties</hi> in the Affairs of the Church; in which they would have nothing done without their Conſent. But truly I muſt ſubmit it to better Judgments than mine own, whether what is dedicated to Super<g ref="char:EOLhyphen"/>ſtitious Uſes in the Service of the true God, be much more pleaſing to him, than what is devoted to falſe
+<pb n="107" facs="tcp:57937:67"/> Gods: Nay, I have Autho<g ref="char:EOLhyphen"/>rity from Dr. <hi>Stillingfleet</hi> to <note place="margin">
+                  <hi>Stillingfl.</hi> of the I<g ref="char:EOLhyphen"/>dolatry of the Church of <hi>Rome. p.</hi> 47.</note> ſay, that there may be Ido<g ref="char:EOLhyphen"/>latry in an unwarranted, or at leaſt <hi>forbidden,</hi> dedication of things to God's Service.</p>
+            <p>Wherefore ſome perhaps would be likely to compare Dr. <hi>Heylin</hi>'s Cenſures upon King <hi>Edward,</hi> to the ravings of one of <hi>Baal</hi>'s <hi>Prieſts,</hi> when good King <hi>Joſias defiled the</hi> 
+               <note place="margin">2 Kings 23. 8.</note> 
+               <hi>high places where the Prieſts had burnt Incenſe.</hi>
+            </p>
+            <p>To be ſure <hi>Cardan,</hi> tho a Papiſt, yet had ſo much of a Philoſopher in him, that <hi>Mother Church</hi> could not bribe him to defraud ſo brave an Enemy of his due
+<pb n="108" facs="tcp:57937:68"/> Praiſes; but, in a tranſport of Admiration, he declares, that <hi>Not only</hi> England, <hi>but the World has reaſon to lament</hi> 
+               <note place="margin">
+                  <hi>Burnet</hi>'s Hiſt. <hi>f.</hi> 3.</note> 
+               <hi>his being ſo early ſnatc'd away.</hi> While Dr. <hi>Heylin</hi> an Engliſh Divine, ſo <hi>great is</hi> Diana <hi>of the</hi> Epheſians! ſeems to re<g ref="char:EOLhyphen"/>joice, that Queen <hi>Mary</hi> ſe<g ref="char:EOLhyphen"/>cured to the <hi>Church</hi> her Or<g ref="char:EOLhyphen"/>naments, and to <hi>Church-men</hi> that Power, which, no doubt, he thought the Spirit of Reformation, working in, and like a Glory adorn<g ref="char:EOLhyphen"/>ing this <hi>Prince,</hi> would be likely to reduce to the Pri<g ref="char:EOLhyphen"/>mitive Authority of Preach<g ref="char:EOLhyphen"/>ing, and Adminiſtring the Sacraments.</p>
+            <pb n="109" facs="tcp:57937:68"/>
+            <p>That indeed is a <hi>Principle</hi> which this young <hi>King</hi> diſ<g ref="char:EOLhyphen"/>covers in the Papers here ſet forth, and if I hereby expoſe <note place="margin">P. 12, 13, 14, 15, 16.</note> his Memory to farther rude<g ref="char:EOLhyphen"/>neſses, I am perſwaded the thinking and diſintereſted part of Mankind will laugh at ſuch impotent Malice.</p>
+            <p>But I ſhall offer a few Conſiderations, beſides what have been already inter<g ref="char:EOLhyphen"/>ſpers'd, which may revive the <hi>Proteſtant Reader's</hi> Senſe, of the loſs our Religion had by this <hi>King's</hi> immature Death.</p>
+            <p>The firſt thing remark<g ref="char:EOLhyphen"/>able to this Purpoſe, was the
+<pb n="110" facs="tcp:57937:69"/> 
+               <hi>Ingenuity</hi> and <hi>Sweetneſs</hi> of his <hi>Diſpoſition;</hi> which, as a Papiſt <note place="margin">Cardan.</note> himſelf confeſſes, <hi>raiſed in all good and learned Men, the great<g ref="char:EOLhyphen"/>eſt expectation of him poſſible:</hi> this without doubt, was in great meaſure deriv'd from his beautiful Mother. Who has left behind her the <hi>Cha<g ref="char:EOLhyphen"/>racter, of being the diſcreeteſt,</hi> 
+               <note place="margin">
+                  <hi>Heylin</hi>'s Hiſt. of Ref. <hi>f.</hi> 7.</note> 
+               <hi>humbleſt, and faireſt of all King</hi> Henry <hi>the Eight</hi>'s <hi>Wives.</hi>
+            </p>
+            <q xml:lang="lat">Dos eſt magna Parentum virtus.</q>
+            <p>Says the Poet, and certain it is, that the rich Dowry of Vertue, which his Mother brought with her, deſcended with advantage on the Son;
+<pb n="111" facs="tcp:57937:69"/> Whoſe Mind was a vaſt Treaſury of Graces, and con<g ref="char:EOLhyphen"/>tained more than the Scene of his ſhort Life could give him occaſion of exerting: ſo that if there were any one thing for which the Lives of former <hi>Hero</hi>'s might have been more memorable than his, it proceeded from the want of time to give an Ex<g ref="char:EOLhyphen"/>ample to all following <hi>Kings</hi> in every thing praiſe-wor<g ref="char:EOLhyphen"/>thy. Wherefore <hi>Cardan</hi> ſaid rightly,</p>
+            <q xml:lang="lat">Specimen virtutis exhibere potu<g ref="char:EOLhyphen"/>it, non exemplum.</q>
+            <p>But the love of Truth was
+<pb n="112" facs="tcp:57937:70"/> 
+               <hi>natural</hi> to him; and indeed <note place="margin">Dr. <hi>Bur<g ref="char:EOLhyphen"/>net</hi>'s Hiſt. <hi>f. 25. Hayward</hi> p. 7.</note> that Sweetneſs and Even<g ref="char:EOLhyphen"/>neſs of Temper, which won upon the Hearts of all that approach'd him, gave him an extraordinary Capacity for the finding it out. The Light of Reaſon, as an ele<g ref="char:EOLhyphen"/>gant Writer has it, is <hi>Lumen</hi> 
+               <note place="margin">
+                  <hi>Culver<g ref="char:EOLhyphen"/>well</hi>'s Light of Nature. <hi>p.</hi> 66.</note> 
+               <hi>tranquillum &amp; amicum: This Candle would ſhine more clearly and equally, if the Winds of Paſ<g ref="char:EOLhyphen"/>ſions were not injurious to it.</hi>
+            </p>
+            <p>But, beſides, that his Temper of Mind, fitted him to attend to the conſequen<g ref="char:EOLhyphen"/>ces of things, and to judg without diſorder or partiali<g ref="char:EOLhyphen"/>ty, it was very pious, and he had an inbred Veneration
+<pb n="113" facs="tcp:57937:70"/> for God's Word, which is ſufficient to lead us into all needful Truths; and 'tis not to be queſtion'd but God will reward the eſteem of the ſacred Truths there con<g ref="char:EOLhyphen"/>tained, with a proportion<g ref="char:EOLhyphen"/>ate degree of underſtand<g ref="char:EOLhyphen"/>ing in them.</p>
+            <p>It has been obſerved even by his Calumniator, That <hi>in the Days of his Childbood,</hi> 
+               <note place="margin">Heylin f. 14.</note> 
+               <hi>when being about to take down ſomething, which ſeemed to be above his reach,</hi> one of his Fellows proffered <hi>him a boſſed-plated-Bible to ſtand up<g ref="char:EOLhyphen"/>on, and heighten him, for taking that which he deſired: when he perceived it to be a Bible, with
+<pb n="112" facs="tcp:57937:71"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="113" facs="tcp:57937:71"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="114" facs="tcp:57937:72"/> holy Indignation, he refuſed it, and ſharply reprehended him that made the proffer.</hi> Nay, Dr. <hi>Heylin</hi> is forced upon this to Remarque, that it was <hi rend="blackletterType">A ſtrong Aſſurance of that dear Eſteem and Veneration, in which he held that Sacred Book in his riper Years.</hi>
+            </p>
+            <p n="2">2. The <hi>Probity of his Man<g ref="char:EOLhyphen"/>ners</hi> was ſo great, that one may well ſay, his Zeal for Divine Truth, was not without true ſaving Know<g ref="char:EOLhyphen"/>ledg, nor his Knowledg un<g ref="char:EOLhyphen"/>operative: and this <hi>made him</hi> 
+               <note place="margin">Dr. <hi>Bur<g ref="char:EOLhyphen"/>net ſupra. f.</hi> 25.</note> 
+               <hi>very inclinable to love and cheriſh true Religion.</hi>
+            </p>
+            <p n="3">
+               <pb n="115" facs="tcp:57937:72"/>3. His early Diligence and Application of Mind, to un<g ref="char:EOLhyphen"/>derſtand the Principles of his Religion was wonderful. I my ſelf have ſeen a Colle<g ref="char:EOLhyphen"/>ction of his, under his own <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd, of the Texts of Scrip<g ref="char:EOLhyphen"/>ture relating to the Nature of <hi>Faith</hi> and <hi>Juſtification,</hi> put together with great Care and Judgment, and tranſlated into the <hi>French</hi> Tongue, which was done when he was but <hi>Eleven Years of Age,</hi> the Year before he wrote the Treatiſe now publiſhed; it is likewiſe dedicated to his Uncle with a great deal of Piety, and Manly Senſe.</p>
+            <p n="4">
+               <pb n="116" facs="tcp:57937:73"/>4. He Liv'd and Dyed in an utter deteſtation and ab<g ref="char:EOLhyphen"/>horrence of <hi>Popery;</hi> his Si<g ref="char:EOLhyphen"/>ſter <hi>Mary</hi> was a bigotted Papiſt, and Dr. <hi>Heylin</hi> takes <note place="margin">Hiſt. of Ref. <hi>f.</hi> 102.</note> pains to ſhew us, that ſhe was obliged by her Intereſt to be ſo; to be ſure the <hi>Em<g ref="char:EOLhyphen"/>perour</hi> engaged ſo heartily for her having Liberty to keep up her way of Wor<g ref="char:EOLhyphen"/>ſhip, that the Council per<g ref="char:EOLhyphen"/>ſwaded the King to conſent to it; which he not only oppoſed with ſuch Reaſons as amazed his <hi>Biſhops,</hi> who were for complying with the <hi>Emperour;</hi> but with ſo much true Compaſſion for her Errours, and pious Diſ<g ref="char:EOLhyphen"/>pleaſure,
+<pb n="117" facs="tcp:57937:73"/> that he ſhould be preſt to ſuffer her in her Sin, <note place="margin">Heylin f. 103.</note> that the Tears ran down his Cheeks, and made his <hi>Bi<g ref="char:EOLhyphen"/>ſhops</hi> weep too, it may be, to ſee their tardy Zeal re<g ref="char:EOLhyphen"/>buk'd by the Kings.</p>
+            <p>But that which gives the greateſt Demonſtration of his abhorrence of <hi>Popery,</hi> and true value for the Prote<g ref="char:EOLhyphen"/>ſtant Religion, was his dy<g ref="char:EOLhyphen"/>ing Prayer; which as Dr. <hi>Heylin</hi> himſelf tells us, was <hi>not ſo much aiming at the pro<g ref="char:EOLhyphen"/>longing</hi> 
+               <note place="margin">Heylin f. 140.</note> 
+               <hi>of his Life, as the con<g ref="char:EOLhyphen"/>tinuance of Religion; not ſo much at the freeing himſelf from his Diſeaſe, as the preſerving the Church from the danger of
+<pb n="118" facs="tcp:57937:74"/> Popery.</hi> Which dying Pray<g ref="char:EOLhyphen"/>er, as it was taken from his Mouth, was in theſe Words following</p>
+            <p>
+               <q rend="margQuotes">LOrd God, deliver me out of this wretched and miſerable Life, and take me among thy choſen. Howbeit not my Will but thine be done. Lord, I commit my Spirit to thee. O Lord, Thou knoweſt how happy it were for me to be with thee; yet for thy Choſen's ſake, ſend me Life and Health, that I may truly ſerve thee. Oh my Lord God! Bleſs my Peo<g ref="char:EOLhyphen"/>ple, and ſave thine Inheri<g ref="char:EOLhyphen"/>tance.
+<pb n="119" facs="tcp:57937:74"/> O Lord God, ſave thy choſen People of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> O Lord God, De<g ref="char:EOLhyphen"/>fend this Realm from <hi rend="blackletterType">Pa<g ref="char:EOLhyphen"/>piſtry,</hi> and maintain thy true Religion, that I and my People may praiſe thy Holy Name, for Jeſus Chriſt his ſake.</q>
+            </p>
+            <p>Add to all this, his un<g ref="char:EOLhyphen"/>daunted Courage, which he diſcovered as far as his <hi>Opportunities</hi> could give him leave, his great Conduct in the management of publick Affairs, his exact Judgment in all Things; and conſider the eſteem which flowed
+<pb n="120" facs="tcp:57937:75"/> from all theſe, and would have facilitated the ſucceſs of any Undertaking, with Forreign Princes, or a<g ref="char:EOLhyphen"/>mongſt his own Subjects, for the advantage of the Proteſtant Cauſe: and cer<g ref="char:EOLhyphen"/>tainly, it cannot but be <note place="margin">
+                  <hi>Vid.</hi> The Chara<g ref="char:EOLhyphen"/>cter gi<g ref="char:EOLhyphen"/>ven him by Dr. <hi>Burnet.</hi> Hiſt. of Ref. <hi>f.</hi> 225, 226.</note> thought a <hi>great Infelicity</hi> to the Proteſtant Religion, that he liv'd not to finiſh his glo<g ref="char:EOLhyphen"/>rious Deſigns of ſetling and confirming the true Religi<g ref="char:EOLhyphen"/>on at home, and encoura<g ref="char:EOLhyphen"/>ging it abroad, till it became the prevailing Intereſt of Chriſtendom. If any think that this would have been fatal to the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+               <pb n="121" facs="tcp:57937:75"/> certainly they put a great Scandal upon it; but God keep that Church from flouriſhing, to which the length of ſuch a Kings Reign would be fatal.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
